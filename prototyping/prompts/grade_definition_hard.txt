@@ -1,0 +1,15 @@
+Grade quiz response
+
+Background: I'm practicing for a test and I'm trying to learn concepts with flashcards. The current term is "{term}".
+
+My flashcard:
+{term} - {definition}
+
+My answer:
+When quizzed, I defined {term} as "{attempt}".
+
+Question: Does my answer demonstrate full understanding?
+Rubric:
+(A) Yes
+(B) No
+Decision: (

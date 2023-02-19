@@ -1,0 +1,15 @@
+Grade quiz response
+
+Background: I'm practicing for a test and I'm trying to learn concepts from flashcards by using them in a sentence. The current term is "{term}".
+
+My flashcard:
+{term} - {definition}
+
+My answer:
+{attempt}
+
+Question: Does my answer demonstrate that I fully understand the term?
+Rubric:
+(A) Yes
+(B) No
+Decision: (
