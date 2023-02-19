@@ -1,11 +1,12 @@
+from flask import Flask, request, jsonify
 import backoff
 import glob
 import openai
 import re
 import json
-from tqdm import tqdm
-import pandas as pd
 from typing import List
+
+app = Flask(__name__)
 
 TOKEN_LIMIT = 1000
 MODEL = 'text-davinci-003'
@@ -57,3 +58,13 @@ def process_notes(notes: str, subject: str):
             flashcard_set[term] = definition
 
     return flashcard_set
+
+@app.route('/flashcards', methods=['POST'])
+def create_flashcards():
+    notes = request.json.get('notes')
+    subject = request.json.get('subject')
+    flashcards = process_notes(notes, subject)
+    return jsonify(flashcards)
+
+if __name__ == '__main__':
+    app.run()
