@@ -16,10 +16,10 @@ export default function QuickStart({handleSubmit}) {
                 <h1>FlashGPT</h1>
                 <form onSubmit={(e) => e.preventDefault()}>
                     <div className='form'>
-                        <input className='subject' type='text' placeholder='Enter your class subject here...' onChange={(e) => setSubject(e.target.value)}></input>
-                        <button type='submit' onClick={() => {handleSubmit(subject, notes)}}> Make flashcards! </button>
+                        <input className='subject' type='text' placeholder='Enter your class subject here...' onChange={(e) => setSubject(e.target.value)}/>
+                        <button className='btn' type='submit' onClick={() => handleSubmit(subject, notes)}> Make flashcards! </button>
                     </div>
-                    <input className='notes' type="text" placeholder='Copy and paste your class notes here...' onChange={(e) => setNotes(e.target.value)}/>
+                    <textarea className='notes' placeholder='Copy and paste your class notes here...' onChange={(e) => setNotes(e.target.value)}/>
                 </form>
             </div>
         </div>

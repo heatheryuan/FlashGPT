@@ -8,9 +8,24 @@
     }
 }
 .notes {
-    height: 600px;
-    width: 700px;
+    min-height: 600px;
+    min-width: 700px;
+    max-width: 700px;
     border-radius: 10px;
     border: none;
     margin: 20px;
+}
+
+.subject {
+    border: none;
+    border-radius: 7px;
+    min-width: 550px;
+    min-height: 20px;
+    padding: 7px;
+    margin-right: 12px;
+}
+
+.btn {
+    border-radius: 10px;
+    padding: 7px;
 }

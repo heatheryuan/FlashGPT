@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import "./Card.scss"
 
-const Card = ({term, definition}) => {
-    const [isFlipped, setIsFlipped] = useState(false);
+const Card = ({term, definition, handleFlip, isFlipped}) => {
+    // const [isFlipped, setIsFlipped] = useState(false);
     const [attempt, setAttempt] = useState();
     const [isCorrect, setIsCorrect] = useState();
     const [feedback, setFeedback] = useState();
@@ -57,7 +57,6 @@ const Card = ({term, definition}) => {
                         </form>
                         {isChecking ? <h3>checking your attempt...</h3> : <p>{feedback}</p>}
                     </div>}
-                <button onClick={() => setIsFlipped(!isFlipped)}>flip</button>
             </div>
         </div>
         

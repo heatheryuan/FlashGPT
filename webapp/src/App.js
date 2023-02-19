@@ -29,12 +29,18 @@ function App() {
 }
   
   const makeFlashcards = (subject, notes) => {
-    const dataEntry = {
-      subject: subject,
-      notes: notes
+    const subjectValid = subject != undefined && subject != "";
+    const notesValid = notes != undefined && notes != "";
+    
+    if (subjectValid && notesValid) {
+      const dataEntry = {
+        subject: subject,
+        notes: notes
+      }
+    
+      callAPI(dataEntry);
     }
-  
-    callAPI(dataEntry);
+    
     // console.log(flashcards);
     // setDisplay(`Subject: ${dataEntry.subject}\nNotes: ${dataEntry.notes}`);
   }
