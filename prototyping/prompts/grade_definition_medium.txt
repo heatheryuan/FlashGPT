@@ -6,7 +6,7 @@ My flashcard:
 {term} - {definition}
 
 My answer:
-When quizzed, I defined ATRTL as "{attempt}".
+When quizzed, I defined {term} as "{attempt}".
 
 Question: Is my answer mostly correct?
 Rubric:
