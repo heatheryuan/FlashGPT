@@ -5,6 +5,7 @@ import numpy as np
 from utils import completions_with_backoff
 
 MODEL = 'text-davinci-003'
+FEEDBACK_TOKENS = 200
 
 mode2file = {
     'easy':'../prompts/grade_definition_easy.txt',
@@ -20,14 +21,27 @@ def grade_definition(term: str, definition: str, attempt: str, mode: str='medium
     prompt = template.format(term=term, definition=definition, attempt=attempt)
     completions = completions_with_backoff(
         prompt=prompt,
-        engine='text-davinci-003',
+        engine=MODEL,
         temperature=0,
         max_tokens=1,
         logprobs=3,
     )
     logprobs = completions['choices'][0]['logprobs']['top_logprobs'][0]
-    if 'A' not in logprobs:
-        return 0
-    if 'B' not in logprobs:
-        return 1
-    return (np.e**logprobs['A'] / (np.e**logprobs['A'] + np.e**logprobs['B']),)
+    
+    # convert to prob
+    if 'A' not in logprobs: prob = 0
+    elif 'B' not in logprobs: prob = 1
+    else: prob = np.e**logprobs['A'] / (np.e**logprobs['A'] + np.e**logprobs['B'])
+
+    prompt += completions['choices'][0]['text'] + ')\nBrief feedback:\n'
+
+    completions = completions_with_backoff(
+        prompt=prompt,
+        engine=MODEL,
+        temperature=0,
+        max_tokens=FEEDBACK_TOKENS,
+    )
+
+    feedback = completions['choices'][0]['text'].strip()
+
+    return (prob, feedback)
