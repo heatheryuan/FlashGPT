@@ -27,7 +27,7 @@ def split_notes(notes: str, word_limit: int=300) -> List[str]:
 
 def process_notes(notes: str, subject: str):
     """Process a set of notes into a flashcard set."""
-    flashcard_set = {} # set of flashcards
+    flashcard_set = [] # set of flashcards
     for note_split in split_notes(notes):
         prompt = template.format(
             subject=subject,
@@ -45,6 +45,10 @@ def process_notes(notes: str, subject: str):
             splits = line.split(' - ')
             term = splits[0]
             definition = ' - '.join(splits[1:])
-            flashcard_set[term] = definition
+            flashcard = {
+                'term': term,
+                'definition': definition
+            }
+            flashcard_set.append(flashcard)
 
     return flashcard_set

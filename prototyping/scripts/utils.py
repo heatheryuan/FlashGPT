@@ -2,7 +2,7 @@
 import openai
 import backoff
 
-openai.api_key = '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' # ACCESS KEY
+openai.api_key = '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' # ACCESS KEY
 
 @backoff.on_exception(backoff.expo, openai.error.RateLimitError)
 def completions_with_backoff(**kwargs):

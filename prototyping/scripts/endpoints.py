@@ -9,7 +9,7 @@ CORS(app)
 
 @app.route('/grade_def', methods=['POST'])
 def grade_def() -> float:
-    """Flask enpoint to create a set of flashcards from a set of notes."""
+    """Flask endpoint to grade a flashcard attempt."""
     term = request.json.get('term')
     definition = request.json.get('definition')
     attempt = request.json.get('attempt')
