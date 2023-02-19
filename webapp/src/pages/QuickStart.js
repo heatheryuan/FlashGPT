@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { app, db } from "../firebase/firebase";
 import { collection, doc, setDoc } from "firebase/firestore"; 
+import "./QuickStart.scss"
 
 const refSets = app.firestore().collection("sets");
 
@@ -12,12 +13,13 @@ export default function QuickStart({handleSubmit}) {
     return (
         <div>
             <div className='quickStart'>
-                <h1>Quick Start Flashcards</h1>
-                <h3>Copy and paste your notes below to get started!</h3>
+                <h1>FlashGPT</h1>
                 <form onSubmit={(e) => e.preventDefault()}>
-                    <input type='text' onChange={(e) => setSubject(e.target.value)}></input>
-                    <input type="text" onChange={(e) => setNotes(e.target.value)}/>
-                    <button type='submit' onClick={() => {handleSubmit(subject, notes)}}> Make flashcards! </button>
+                    <div className='form'>
+                        <input className='subject' type='text' placeholder='Enter your class subject here...' onChange={(e) => setSubject(e.target.value)}></input>
+                        <button type='submit' onClick={() => {handleSubmit(subject, notes)}}> Make flashcards! </button>
+                    </div>
+                    <input className='notes' type="text" placeholder='Copy and paste your class notes here...' onChange={(e) => setNotes(e.target.value)}/>
                 </form>
             </div>
         </div>

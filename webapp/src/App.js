@@ -42,7 +42,7 @@ function App() {
   return (
     <div className="App">
       {!loaded ? <QuickStart handleSubmit={makeFlashcards}/> : <Flashcards flashcards={flashcards} handleBack={() => setLoaded(false)}/>}
-      {loading && <h1>Loading...</h1>}
+      {loading && <h1>Generating your smart flashcards...</h1>}
     </div>
   );
 }

@@ -1,0 +1,16 @@
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    .subject {
+        width: 550px;
+    }
+}
+.notes {
+    height: 600px;
+    width: 700px;
+    border-radius: 10px;
+    border: none;
+    margin: 20px;
+}

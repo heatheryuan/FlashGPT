@@ -43,5 +43,6 @@ def grade_definition(term: str, definition: str, attempt: str, mode: str='medium
     )
 
     feedback = completions['choices'][0]['text'].strip()
+    isCorrect = prob > 50
 
-    return (prob, feedback)
+    return (isCorrect, feedback)
