@@ -1,0 +1,13 @@
+Flash card generation
+
+A student took notes from a class about {subject}.
+
+Pull out key topics and their corresponding definitions and descriptions from a students notes. Make flash cards on these key topics with definitions and descriptions in one or more full sentences. Make sure the definitions and descriptions are comprehensive to the content in the notes. If there are examples, include the examples in the description. Combine terms that mean the same thing but may have different names.
+
+Use the following format for flash cards where the corresponding text goes in the brackets:
+Term - Definition/description
+
+Excerpt from student notes:
+{notes}
+
+Flash cards:
