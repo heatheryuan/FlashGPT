@@ -16,7 +16,7 @@ MODEL = 'text-davinci-003'
 TEMPLATE_FILE = '../prompts/make_flashcards_v0.txt'
 template = open(TEMPLATE_FILE, 'r').read()
 
-openai.api_key = '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' # ACCESS KEY
+openai.api_key = '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' # ACCESS KEY
 
 @backoff.on_exception(backoff.expo, openai.error.RateLimitError)
 def completions_with_backoff(**kwargs):
