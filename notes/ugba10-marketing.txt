@@ -1,0 +1,65 @@
+Market Scoping
+Marketing := creating value for customers in order to capture value from them
+Market := group of end users with a need and desire/means to fill it, e.g. consoles for gamers, MS Office for workers
+Segmentation tradeoff: Fewer segments → more efficient, more segments → more specific; 4 bases of segmentation:
+1. Demographic: immutable, e.g. age, gender, income, education, zipcode, company size, industry; “young males in Berkeley”
+2. Needs: consumer desires, e.g. overcoming challenges, circumstances, requirements; “need high resolution screens to game”
+3. Psychographic: e.g. attitudes, lifestyle, interests, preferences; “fans of gaming culture”
+4. Behavioral: e.g. usage intensity/frequency, channel references, category spending; “play 6-8 hours a day”
+Customer lifetime value = (Customer Spend * Length of Customer Relationship) - Customer Acquisition Cost
+Customer relationship groups				Product-market expansion framework  
+
+BCG growth share matrix
+
+Campaign’s/Stories/Videos
+Dove Campaign for Real Beauty - studied >3,00 women in 10 g=countries, sustained campaign featuring real women outside of beauty norms
+Steve Jobs - brands are simple, e.g. Apple = “Think Different”
+Ford F150 EV - family vehicle powering a home during a blackout
+Marketing Planning
+Brand relevance: depended on, innovate consistently, inspire customers; e.g. 1) Apple, 2) Spotify, 3) Android, 4) Bose, 5) Disney
+Brand equity includes: brand awareness and availability, memorability (slogans, characters, logos, colors, fonts, audio elements are helpful here), perceived relevance and usefulness, customer experience and consistency, brand values and associations
+Useful for attracting customers and employees.
+The value proposition answers three questions: 1. Who are we? - The capabilities or special expertise we bring to bear. 2. What do we do? - The key aspects of our offering. 3. Why does it matter? - The customer need addressed
+Brand positioning
+- Relative to competing offerings
+- Makes it credible, relevant, and differentiated to its target audience
+- Basis for external messaging
+“For TARGET, XYZ brand is the CATEGORY/FRAME OF REFERENCE that KEY BENEFIT because it (of course has TABLE STAKES, but) is the only one that has DIFFERENTIATORS.”
+
+Engagement through touchpoints
+
+
+SWOT analysis
+SMART marketing objectives
+Specific, Measurable, Aggressive yet, Realistic, Time-bound
+
+Campaign’s/Stories/Videos
+CocaCola are experts offering beverages made of various combinations for thirsty consumers everywhere
+- Hilltop commercial - people from around the world singing, Coke is the “real thing”
+- Pepsi taste test commercial - in blind tests, >50% like Pepsi
+- Cosby (Coke) vs. Michael Jackson (Pepsi) - made Coke seem outdated
+Coke made a new product to beat Pepsi in taste tests; now Coke is going into new beverage categories
+Marketing Implementation
+Rules: 1. Lowering the price is always price, not promotion
+2. Promotions get the word out, even if it involves a place
+Metrics
+Measurements can be quantitative (e.g. surveys, data - what people do) or qualitative (e.g. interviews, feedback - why they do it)
+Unaided awareness (top of mind): Brands heard of, regardless of use; 
+Aided awareness: Brands recognized when shown a list of names/logos
+Trial/purchase: Observe path to purchase with shopping carts/coupons, or ask consumers what they consider buying/which they’ve purchased
+Repeat purchase/loyalty: Analyze repurchase data, or ask for repeat buyers, what brand they buy most often, and what brands they recommend
+Acquisition Conversion = Trial/PurchaseAided Awareness, Retention Conversion = Repeat PurchaseTrial/Purchase
+Marketing is not just an expense on the income statement: MROI = CLV - Marketing InvestmentMarketing Investment, prioritize high MROI
+Campaign’s/Stories/Videos
+Apple Watch 5, “This watch tells time, among other things” - many features, single list price, many channels, advertising
+Nike - Dream Crazy commercial - sacrifice for beliefs, 
+Baby Dove and the Black Birth Equity Fund - $250k fund for black mothers, collaborations, funded with gifts at Walmart
+
+Market Scoping/Brand Architecture
+Aims to optimize the portfolio through greater clarity, efficiency, equity, and growth. Focus on customers. House of brands is less linked than hybrid, which is less linked than branded house.
+
+
+Companies/Stories/Videos
+Facebook created a new logo to distinguish company from app; company spans Instagram, Whatsapp, Oculus, Messenger, etc.
+P&G Super Bowl 2020 multi-product brand commercial - aimed to tie together brands, build brand equity
+Plestar jointly owned by Volvo and Geelt, makes EV/hybrid vehicles

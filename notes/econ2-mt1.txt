@@ -1,0 +1,484 @@
+MASTER GUIDE
+LINK FOR TUTORING: https://www.econ.berkeley.edu/undergrad/home/tutoring 
+Chapter 1 & Lecture 1:
+Chapter:
+	CORE PRINCIPLES:
+The Scarcity Principles (No-Free-Lunch Principle): Although we have boundless needs and wants, the resources available to us are limited. So having more of one good thing usually means having less of another
+The Cost-Benefit Principle: An individual (or a firm or a society) should take an action if, and only if the extra benefits from taking the action are at least as great as the extra cost.
+The Incentive Principle: A person (or a firm or a society) is more likely to take any action if its benefits rise, and less likely to take it if its cost rises. In short, incentives matter.
+KEY TERMS:
+Economic Surplus: the benefit of taking an action minus its cost
+Opportunity Cost: the value of what must  be forgone to undertake an activity
+2 Cost: A cost that is beyond recovery at the moment a decision must be made
+Marginal Cost: The increase in total cost that results from carrying out one additional unit of an activity.
+Marginal Benefit: the increase in total benefit that results from carrying out one additional unit of an activity.
+Normative economic Principle: Says how people should behave
+Positive Economic Principle: Predits how people will behave
+Microeconomics: the study of individual choice under scarcity and its implications for the behavior of prices and quantities in individual markets 
+Macroeconomics: the study of the performance of national economies and the policies that governments use to try to improve that performance 
+Lecture: 
+Course Overview: 
+Microeconomics
+Study of economic behavior at a fairly detailed level
+How individual consumers & producers make decisions; what happens in the market for particular goods; what determines the wages and employment of a particular type of worker
+Market Failures
+Macroeconomics:
+ Study of the behavior of the whole economy
+What determines the behavior of overall employment, total output, and prices
+Two Key Features of Economic Analysis:
+Theory: Start with assumptions and derive implications
+Empirical Evidence:  Are the implications and predictions of the theory verified by experience?
+Scarcity, Choice, and Opportunity Cost
+Scarcity
+Economists’ Definition: Someone or something that faces a constraint
+Constraints are given but change over time
+Choice
+Everyone has to make choices
+Choices have a cost
+We refer to this cost as the opportunity cost
+Opportunity Cost:
+Definition: The value of what must be forgone to undertake an activity.
+Opportunity cost is often obvious.
+The opportunity cost of a good buy in the market is its price.
+	The Production Possibilities Curve (PPC)
+Consumption Goods: Goods (and services) that satisfy some current want.
+Investment Goods: Goods (and services) that will make us more productive in the future
+Scarcity is reflected by the fact that some combinations are unattainable.
+Choice is reflected by the fact that a country has to choose which attainable combination to actually produce
+The slope of the PPC is (minus) the opportunity cost of the good on the horizontal axis
+A curved PPC implies that the opportunity cost of the good on the horizontal axis is rising as more is produced
+Chapter 2 & Lecture 2 + Section 1:
+Chapter :
+CORE  PRINCIPLES:
+Competitive Advantage: one person has a comparative advantage over another if his or her opportunity cost of performing a task is lower than the other persons
+Absolute Advantage: One person has an absolute advantage over another if he or she takes fewer hours to perform a task than the other person
+Increasing Opportunity Cost [“Low Hanging-Fruit Principle”]: In expanding the production of any good, first employ those resources with the lowest opportunity cost, and only afterward turn to resources with higher opportunity costs
+KEY TERMS:
+Attainable point: any combination of goods that can be produced using currently available resources
+Unattainable point: any combination of goods that cannot be produced using currently available resources
+Inefficient point: any combination of goods for which currently available resources enable an increase in the production of one good without a reduction in the production of the other
+Efficient point: any combination of goods for which currently available resources do not allow an increase in the production of one good without a reduction in the production of another
+EXTRA:
+Specialization: When each person specializes in the task at which he or she is relatively most efficient, the economic pie is maximized, making possible the largest slice for everyone.
+Section:
+ Opportunity Cost: 
+Definition: The value of what must be forgone to undertake an activity, i.e. what is the value of the next best alternative use of the same resources.
+Ex. What is the opportunity cost of attending section? 
+Production Possibilities Curve/Frontier 
+	Definition: The PPC shows all the combinations of two goods that can be produced using the same set of finite resources. 
+	Ex. Education vs Military spending
+The graph is bow-shaped because of Increasing Opportunity Cost.
+The Aggregate PPC Belgium is famous for its beer and chocolate. The figure is fictiously simplified because it assumes that the Belgium economy only produces two goods.
+Slope of this graph is: -200/120 = -5/3 -> (represents trade of between beer and chocolate)-> the opportunity cost of 1 ton of chocolate = 5/3 barrels of beer. [ALWAYS INCLUDE UNITS]
+[ALWAYS INCLUDE UNITS]
+0.6 of a ton of chocolate
+Identify attainable, unattainable, efficient, and inefficient outcomes on the graph:
+Attainable: A, B,  C
+Unattainable: D
+Inefficient: C
+Efficient: A & B
+What happens to the PPC curve if there is an increase in Belgium’s productive resources?
+The graph will bow out and expand outwards.
+If we lost half the breweries what happens to the graph?
+The graph would shrink along the y- axis
+The new slope would be -100/120 = - 5/6
+During a recession, is Belgium more likely to be producing at point B or point C? Why?
+More likely to produce at point C, our PPC does not change the resources remain the same but we only underutilize resources during a recession.
+Lecture: 
+Fundamental Building Blocks
+Scarcity, choice & opportunity cost
+Comparative advantage and the gains from specialization
+Absolute advantage
+ Someone or something can produce more with a given amount of resources.
+	Comparative advantage
+Someone or something is relatively more productive at one activity than at another
+	Messages:
+Comparative advantage is necessary for there to be gains from specialization
+Reciprocal absolute advantage is just a special case of comparative advantage.
+Opportunity Cost & Comparative Advantage
+Lower opportunity cost implies a comparative advantage
+There are gains from specialization when opportunity costs differ
+How much we want to specialize depends on how many of the two activities need to be done.
+Comparative advantage is inherently a relative concept.
+Same opportunity cost implies no comparative advantage
+Specialization & Curvature of the Production Possibilities Curve
+PPC: 
+Diagram showing the combinations of two types of goods that could be produced in an economy just using all of the available inputs
+The slope of the PPC is (minus) the opportunity cost of the good on the horizontal axis
+Learned:
+There are gains from specialization when opportunity costs differ across producers & production is organized according to comparative advantage
+This explains why the PPC for a country is likely to be bowed out.
+One determinant of the size of the gains from specialization is the difference in opportunity cost.
+Implications of the Gains from Specialization:
+It explains why we see trade at all levels.
+To have trade, we need markets.
+Chapter 3 & Lecture 3 + Section 2:
+Chapter: 
+	Core Principles:
+The Efficiency Principle: Efficiency is an important social goal b/c when the economic pie grows larger, everyone can have a larger slice.
+The Equilibrium Principle(also called the No-Cash-on-the-Table Principle): A market in equilibrium leaves no unexploited opportunities for individuals but may not exploit all gains achievable through collective action.
+Key Terms:
+Market: The market for any good consists of all buyers or sellers of that good
+Demand Curve: a schedule or graph showing the quantity of a good that buyers wish to buy at each price
+Substitution Effect: the change in the quality demanded of a good that results because buyers switch to or from substitutes when the price of the good changes
+Income effect: the change in the quantity demanded of a good that results from a change in the price of a good the buyer’s purchasing power
+Buyer’s reservation price: the largest dollar amount the buyer would be willing to pay for a good 
+Supply Curve: a graph or schedule showing the quantity of a good that sellers wish to sell at each price
+Seller’s reservation price: the smallest dollar amount for which a seller would be willing to sell an additional unit, generally equal to marginal cost
+Equilibrium: a balanced or unchanging situation in which all forces at work within a system are canceled by others
+Equilibrium price & equilibrium quantity: the price and quantity at the intersection of the supply and demand curves for the good 
+Market equilibrium: occurs in a market when all buyers and sellers are satisfied with their respective quantities at the market price
+Excess supply (Surplus): the amount by which quantity supplied exceeds quantity demanded when the price of the good exceeds the equilibrium price
+Excess demand (Shortage):  the amount by which quantity demanded exceeds quantity supplied when the price of a good lies below the equilibrium price
+Price ceiling: a maximum allowable price, specified by law
+Change in the quantity demanded:  a movement along the demand curve that occurs in response to a change in price
+Change in demand: a shift of the entire demand curve
+Change in supply: a shift of the entire supply curve
+Change in the quantity supplied: a movement along the supply curve that occurs in response to a change in price
+Complements: two goods are complements in consumption if an increase in the price of one causes a leftward shift in the demand curve for the other (or if a decrease causes a rightward shift)
+Substitutes: two goods are substitutes in consumption if an increase in the price of one causes a rightward shift in the demand curve for the other (or if a decrease in the causes a leftward shift). 
+Normal good: a good whose demand curve shifts rightward when the incomes of buyers increase and leftward when the incomes of buyers decrease
+Inferior good:  
+	Extra:
+Demand Curve:
+	5 Shifters of Demand:
+Tastes/Preferences
+Number of Consumers
+Price of Related Goods
+Income
+Expectations
+Supply Curve: 
+Law of Supply: There is a direct relationship between price and quantity supplied
+		5 Shifters of Supply:
+Price of Resources: Change of the price inputs(resources) 
+Number of Producers   
+Technology
+Taxes & Subsidies: 
+Expectations
+Price changes the quantity supplied (moves along the curve)
+The 5 Shifters change the supply (moves the entire curve) 						
+Demand & Supply Curves Recap:
+The market for a good consists of the actual and potential buyers and sellers of that good. For any given price, the demand curve shows the quantity that demanders would be willing to buy and the supply curve shows the quantity that suppliers of the good would be willing to sell. Suppliers are willing to sell more at higher prices (supply curves slope upward) and demanders are willing to buy less at higher prices (demand curves slope downward). 
+Market Equilibrium Recap:
+Market equilibrium, the situation in which all buyers and sellers are satisfied with their respective quantities at the market price, occurs at the intersection of the supply and demand curves. The corresponding price and quantity are called the equilibrium price and the equilibrium quantity. 
+
+Unless prevented by regulation, prices and quantities are driven toward their equilibrium values by the actions of buyers and sellers. If the price is initially too high, so that there is excess supply, frustrated sellers will cut their price in order to sell more. If the price is initially too low, so that there is excess demand, competition among buyers drives the price upward. This process continues until equilibrium is reached.
+Factors that Shift Supply & Demand
+Factors that cause an increase (rightward or upward shift) in demand: 
+A decrease in the price of complements to the good or service
+An increase in the price of substitutes for the good or service
+An increase in income (for a normal good)
+An increased preference by demanders for the good or service
+An increase in the population of potential buyers
+An expectation of higher prices in the future.
+When these factors move in the opposite direction, demand will shift left.
+Factors that cause an increase (rightward or downward shift) in supply:
+A decrease in the cost of materials, labor, or other inputs used in the production of the good or service
+An improvement in technology that reduces the cost of producing the good or service
+An improvement in the weather (especially for agricultural products).
+An increase in the number of suppliers
+An expectation of lower prices in the future
+When these factors move in the opposite direction, supply will shift left
+					
+				
+			
+		
+
+Lecture:
+I. Intro to Markets
+	Two Building Blocks
+Scarcity: a situation in which a person, firm, or country faces a constraint.
+Gains from Specialization: A group of people can produce and consume more if they specialize in and trade than if each is self-sufficient.
+Market: An arrangement by which economic exchanges between people take place.
+II. Supply & Demand
+Demand
+The buying side of the market.
+There is a negative relationship between the quantity demanded and of a good and its price.
+The relationship reflects optimizing behavior on the part of households.
+Supply
+The selling side of the market
+There is a positive relationship between the quantity supplied and of a good and its price
+This relationship reflects optimizing behavior on the part of firms
+III. Market Equilibrium
+
+How do Markets deal w/ Scarcity & Gains from Specialization?
+The existence of markets allows people to specialize along the lines of comparative advantage b/c they can trade for other goods that they want
+Markets deal w/ scarcity by balancing the optimizing behavior of consumers & producers. Prices adjust to equilibrate the two sides of the market.
+Consumers who actually get good are those who are willing & able to pay the equilibrium price
+Firms that actually produce the good are those that find it profit-maximizing to produce at the equilibrium price
+IV. Shifts In The Curves
+Ceteris Paribus:
+“Other things being equal”
+All variables other than those being studied are assumed to be constant.
+Movements Along vs. Shifts
+A change in the quantity supplied or quantity demanded because the price changed: Movement along the curve
+A change in the quantity supplied or quantity demanded at the same price: Shift of the curve.
+V. Price Controls
+	Price Control
+Government sets the price of a good; it is not allowed to go to its equilibrium level. 
+Price Ceiling: Maximum price; price is held below its equilibrium level.
+Price Floor: Minimum price; price is held above its equilibrium level.
+	Effects of a Price Ceiling 
+Will lead to a shortage
+Goods will have to be allocated in some way other than by price.
+Prevents the decrease in quantity demanded an increase in quantity supplied that automatically occurs as the price rises.
+Price Ceilings during the Pandemic
+Demand for certain goods have risen dramatically
+A mixture of explicit and implicit price ceilings.
+What have been the consequences?
+Shortages of certain goods (hand sanitizer, paper products).
+Alternative forms of allocation.
+Less incentive for increased supply.
+
+Section:
+Definitions:
+Absolute advantage: (who is better at something) A person has an absolute advantage at a particular task if they can perform the task with fewer resources than others
+Comparative Advantage: (am i more better?) a person has a comparative advantage at a particular task if their opportunity cost of performing the task is lower than the other person’s opportunity cost.
+The Principle of comparative advantage: everyone does best when each person (or each country, or whatever units of producers are different from each other in the model) concentrates on the activities for which their opportunity cost is the lowest.
+Chapter 4 & Lecture 4 
+Chapter:
+Key Terms:
+Cross-price elasticity of demand: the percentage by which the quantity demanded of the first good changes in response to a 1 percent change in the price of the second
+Elastic: the demand for a good is elastic with respect to price if its price elasticity of demand is greater than 1
+Income elasticity of demand: the percentage by which a good’s quantity demanded changes in response to a 1 percent change in income
+Inelastic: the demand for a good is inelastic with respect to price if its price elasticity of demand is less than 1
+Perfectly Elastic Demand: demand is perfectly elastic with respect to price if price elasticity of demand is infinite
+Perfectly Elastic Supply: the percentage change in quantity supplied that occurs in response to a 1 percent change in price
+Perfectly Inelastic Demand: demand is perfectly elastic with respect to price if price elasticity of demand is zero
+Perfectly Inelastic Supply: supply is perfectly inelastic with respect to price if elasticity is zero
+Price Elasticity of Demand: the percentage change in the quantity demanded of a good or service that results from a 1 percent change in its price 	
+Price Elasticity of Supply: supply is perfectly elastic with respect to price if elasticity of supply is infinate
+Total Expenditure (or total revenue): the dollar amount that consumers spend on a product (P x Q) is equal to the dollar amount that sellers receive
+Unit Elastic: the demand for a good is unit elastic with respect to price if its price elasticity of demand equals 1
+Key Concepts:
+Factors that Influence Price Elasticity:
+The price elasticity of demand for a good or service tends to be larger when substitutes for the good are more readily available, when the good’s share in the consumer’s budget is larger, and when consumers have more time to adjust to a change in price. 
+Calculating Price Elasticity of Demand:
+The price elasticity of demand for a good is the percentage change in the quantity demanded that results from a 1 percent change in its price. Mathematically, the elasticity of demand at a point along a demand curve is equal to (P/Q) × (1/slope), where P and Q represent price and quantity and (1/slope) is the reciprocal of the slope of the demand curve at that point. Demand is elastic with respect to price if the absolute value of its price elasticity exceeds 1; inelastic if price elasticity is less than 1; and unit elastic if price elasticity is equal to 1. 
+Cross-Price & Income Elasticities:
+When the cross-price elasticity of demand for one good with respect to the price of another good is positive, the two goods are substitutes; when the cross-price elasticity of demand is negative, the two goods are complements. A normal good has positive income elasticity of demand and an inferior good has negative income elasticity of demand. 
+Lecture:
+Review of Supply & Demand
+What Causes the Demand Curve to Shift?
+Anything that changes the desirability of the good at a given price
+Change in the price of a complementary good
+Changes in tastes; news
+Change in the price of a substitute 
+What Causes the Supply Curve to shift?
+Anything that changes the additional cost associated with supplying one more unit at a given quantity of the good
+Change in the price of an input
+Change in technology
+Elasticity 
+Price Elasticity of Demand (Ed)
+
+Relationship between Demanded Elasticity & the Slope of the Demand Curve
+
+Total Expenditure
+Total Expenditure = Price * Quantity
+Total expenditure and total revenue are the same thing
+Demand Elasticity and Expenditure 
+Inelastic: Total expenditure rises when the supply curve shifts back
+Elastic: Total expenditure falls when the supply curve shifts back
+Complexities that we are ignoring with this analysis
+Neglects time element (demand may be more elastic in the long run than in the short run.)
+Neglects new users (new users may be more sensitive to the price)
+Neglects the cost or effectiveness of various policies
+Effects of a Tax
+Typical Effects of a Tax
+Quantity bought and sold declines
+Production and consumption are still allocated by price
+Price rises by less than the amount of the tax
+Both sides feel the effects of the tax
+Demand Elasticity & the Effects of a Tax
+A tax will change the equilibrium quantity more, the more elastic demand is
+Buyers will bear more of the tax (and sellers will bear less of the tax), the less elastic demand is
+Government revenue from the tax will be larger, the less elastic demand is
+
+
+Chapter 5 & Lecture 5 + Section 3:
+Chapter:
+Key Terms:
+Consumer Surplus: the difference between a buyer’s reservation price for a product and the price actually paid.
+Law of Demand: people do less of what they want to do as the cost of doing it rises
+Law of Diminishing Marginal Utility: the tendency for the additional utility gained from consuming an additional unit of a good to diminish as consumption increases beyond some point
+Marginal Utility: the additional utility gained from consuming an additional unit of a good
+Nominal Price: the absolute price of a good in dollar terms
+Optimal Combination of Goods: the affordable combination that yields the highest total utility
+Rational Spending Rule: spending should be allocated across goods so that the marginal utility per dollar is the same for each good
+Real Price: the dollar price of a good relative to the average dollar price of all other goods
+
+Key Concepts:
+Translating Wants into Demand:
+The Scarcity Principle challenges us to allocate our incomes among the various goods that are available so as to fulfill our desires to the greatest possible degree. The optimal combination of goods is the affordable combination that yields the highest total utility. For goods that are perfectly divisible, the rational spending rule tells us that the optimal combination is one for which the marginal utility per dollar is the same for each good. If this condition were not satisfied, the consumer could increase her utility by spending less on goods for which the marginal utility per dollar was lower and more on goods for which her marginal utility was higher. 
+The Rational Spending Rule:
+Application of the rational spending rule highlights the important roles of income and substitution in explaining differences in consumption patterns—among individuals, among communities, and across time. The rule also highlights the fact that real, as opposed to nominal, prices and income are what matter. The demand for a good falls when the real price of a substitute falls or the real price of a complement rises. 
+Lecture:
+Introduction to Consumer Optimization
+Why is it Important?
+It has implications for how we view the desirability of market outcomes.
+It can help us to understand the many choices that consumers make. 
+The Budget Constraint
+A Household’s Budget Constraint
+In words: The total amount the household spends cannot exceed its income
+In symbols: P*q + P*q … = Income
+Where the P’s are the market prices of the various goods, and the q’s are the quantities that the individual household buys.
+
+The slope is linear because the price will not change no matter how much you buy
+Changes in income cause the budget constraint to shift.
+Intercepts change based on the price of a good.
+
+Utility Maximization
+What do we think consumers maximize?
+Happiness, satisfaction, utility.
+We don’t make judgments about what gives people happiness. 
+Utility
+Total Utility: The total happiness one gets from consuming some amount of a good
+Marginal Utility: The extra utility derived from consuming one more unit of a good
+Marginal just means extra 
+Marginal Utility declines for everything since the more you use a good the less satisfaction you receive from it. (you grow tired of it)
+
+Relationship Between Total Utility and Marginal Utility
+Relationship Between Total Utility and Marginal Utility
+Suppose U = f(q)
+Where q is the quantity of some good a household consumes, and U is the total utility the household gets from consuming the good
+Then: MU = f’(q), where MU is marginal utility
+The Condition for Utility Maximization (the Rational Spending Rule)
+A household is doing the best that it can - that is, it is maximizing its utility - if:
+The marginal utility derived from spending one more dollar on a good is the same for all goods. 
+The General Condition for Utility Maximization with Just Two Goods (Food and Clothing)
+$1/Pc MUc = $1/Pf MUf
+Where the P’s are the market prices of the two goods and the MU’s are the marginal utilities of an additional unit of the two goods for the household.
+	This is the same as:
+		MUc / Pc = MUf / Pf
+Consumer Optimization & The Demand Curve
+A Rise in the Price of Clothing 
+Suppose the household starts with:
+MUc / Pc = MUf / Pf
+If Pc rises, and the household didn’t change its purchases then:
+MUc / Pc < MUf / Pf
+The household will need to buy less clothing (and more food)
+Why Demand Curves Slope Down
+Substitution effect: When the price of good rises, a household wants less of the good and more of other goods because the good is relatively more expensive
+Income effect: When the price of good rises, a household wants less of all goods, because its budget 
+“Fairness as a Constraint on Profit Seeking” By Kahneman, Knetsch, and Thaler
+Behavioral Economics
+Brings the complexity of human behavior into the analysis of economic decision-making
+Blends psychology and economics
+The Undoing
+Empirical Strategy of Kahneman, et al.
+Phone surveys
+Asking people to respond to vignettes
+	Experiments 
+Another way to gather information about economic behavior
+Watch behavior in a controlled laboratory setting. 
+Implications of Finding for Analysis of Household & Firm Optimization
+Need a broad definition of utility
+There may be important deviations from simple optimizing behaviors for some individuals 
+Firms may need to think about customer relationships in figuring out how to maximize long-run profits
+But Basic insights and implications of utility and profit maximization likely still hold
+
+
+Section:
+Elasticities
+Price elasticity of demand: 
+% change in quantity demanded / % change in price
+Inelastic graphs would have a steeper slope (e.x. Drugs, water, or anything crucial)
+Elastic demand would have a flatter demand curve (e.x. Luxury goods, anything not needed) 
+Elasticity is based on outside factors (time, place, current mood etc.)
+Price elasticity of supply: 
+% change in quantity supplied / % change in price 
+OR 
+(change in quantity supplied/ quantity suppled) / (change in price / price)
+Perfectly Elastic: would have a straight line for the supply curve, meaning no matter what the supply the price will not change.
+Perfectly Inelastic: meaning price will not change the amount we want to supply. (fixed quantities) 
+Taxes
+The person who bears the burden for tax is based on the relative elasticity of the product/good. 
+The Rational Spending Rule
+Marginal Utility of item a / Price of item a = Marginal Utility of item b / Price of item b
+
+In order to decrease the marginal utility of a good, you buy more of it. 
+Income and Substitution Effect
+Chapter 6 & Lecture 6:
+Chapter: 
+Key Terms:
+Key Concepts:
+Profit-Maximizing Firms in Perfectly Competitive Markets
+The perfectly competitive firm faces a horizontal demand curve for its product, meaning that it can sell any quantity it wishes at the market price. In the short run, the firm’s goal is to choose the level of output that maximizes its profits. It will accomplish this by choosing the output level for which its marginal cost is equal to the market price of its product, provided that price exceeds the average variable cost. The perfectly competitive firm’s supply curve is the portion of its marginal cost curve that lies above its average variable cost curve. At the profit-maximizing quantity, the firm’s profit is the product of that quantity and the difference between price and average total cost. 
+The Determinants of Supply
+Among the relevant factors causing supply curves to shift are new technologies, changes in input prices, changes in the number of sellers, expectations of future price changes, and changes in the prices of other products that firms might produce. 
+Lecture:
+Chapter 7 & Lecture 7 & Section 4:
+Lecture: Competitive Firms in the Long Run
+A Little More on Short-Run Profit Maximization
+In the short run, the marginal cost curve is upward sloping
+In the short run, marginal revenue curve is completely flat 
+It is perfectly competitive so that means the price stays the same(horizontal)
+To Maximize profits, a firm produces where the marginal cost and marginal revenue curve intersect
+A Firm’s Supply Curve
+
+The Two-Way Interaction of a firms Individual firms and the market- Example: A fall in an Input Price
+
+Average Total Cost and Short-Run Profits
+Average Total Cost
+Recall
+Costs are measured as opportunity costs.
+Fixed costs: Costs that do not vary with how much is produced.
+Variable costs: Costs that do vary with how much is produced
+Total cost: The sum of fixed and variable costs.
+Average Total Cost = Total Cost / Quantity
+Recall: 
+Profits = Total Revenue - Total Cost
+Now: Total 
+Revenue = P * q 
+ Total Cost = atc* q
+So: 
+(P*q) - (atc *q)
+Profits are positive negative or zero depending on whether P-atc is positive, negative, or zero.
+The Effects of Profit Maximization in the Long Run
+If there are negative profits: some firms will reduce the scale of their operations or exit.
+If there are positive profits: Some firms will expand the scale of their operations, or new firms will enter
+Exit moves the industry supply curve to the left; entry moves it to the right.
+If there are zero profits: there are no forces tending to cause either contraction or expansion of the industry. In this situation, the industry is in long-run equilibrium.
+Long-Run Equilibrium
+In the short run, firms just try to do the best they can whereas, in the long run, they care about the level of profits (they need to be positive for there to be an incentive to stay in the industry long term). The value of the profits doesn’t matter in the short term, it just matters in the long run. The short term is just about optimizing. 
+Examples:
+Fall in Demand (Starting in Long-Run Equilibrium) Short-Run Effects
+Fall in Demand (Starting in Long-Run Equilibrium) Partway to the New Long-Run Equilibrium
+Fall in Demand (Starting in Long-Run Equilibrium) Long-Run Effects
+Exit and the Industry Marginal Cost Curve
+Fall in Marginal Cost (Starting in LR Equilibrium) Short-Run Effects
+How a shift in the mc Curve Affects the atc Curve
+Fall in Marginal Cost (Starting in LR Equilibrium) Short-Run Effects continued
+Fall in Marginal Cost (Starting in LR Equilibrium) Long-Run Effects continued
+Who Enters or Exists?
+Recall: “Entry” can take the form of firms expanding their scale or of new firms entering the industry (and similarly for “exit”)
+Exactly who enters or exists, and whether it involves changes in the scale of existing firms or changes in the number of firms ( or a combination), isn’t crucial.
+In practice, which firms enter or exit depends largely on who it’s easiest for. 
+The Invisible Hand
+In a Market economy, profits provide signals that move resources across industries where they are most valued
+These movements occur without any centralized planning or direction
+A corollary: In a well-functioning market economy, there are always some industries that are expanding and some that are contracting
+This helps explain why barriers to entry usually make economists nervous. 
+Lecture 8
+Overview
+Thinking More About Market Outcomes:
+Do market outcomes have desirable properties?
+What are the consequences of intervening in well-functioning markets?
+Welfare Analysis
+An extension of the supply and demand framework: 
+Makes use of the optimization analysis we have been doing
+It is a tool that helps us evaluate the desirability of market outcomes
+It is a tool that we will use over and over:
+To evaluate the effects of government intervention
+To understand market failures
+Concept of Economic Surplus
+Economic Surplus
+A measure of the amount by which buyers and sellers benefit from participating in the market.
+The total economic surplus is the sum of: 
+Consumer surplus
+Producer surplus 
+Government revenue or expenditure (if relevant)
+Marginal Benefit (or Reservation Price)
+The dollar value to consumers of another unit of a good
+What they would be willing to pay for one more unit
+Comes from utility maximization

@@ -1,0 +1,1051 @@
+Covers Lectures of Feb 24 through April 7 and corresponding material from the textbook (Chapters 10-18) and associated supplementary readings
+
+Chapter 10: Neural Development and Neuroplasticity
+
+Human genome consists of forty-six chromosomes: 23 inherited from mother and 23 inherited from father 
+23 is called haploid chromosomes and 46 is diploid chromosomes 
+Less than 3% of human genome codes for functional protein
+Greater than 85% of genome is transcribed into RNAs of various kinds
+RNAs not translated into protein appear to be crucially involved in regulating of gene expression
+Embryonic stem cells in developing nervous system differentiate into neural progenitor cells which are on track to become various types of neurons or glia
+Formation of nerve cells and glial cells from neural progenitor cells is called neurogenesis and gliogenesis
+Many different types of cells doing many different kinds of things → information in genome is transcribed and translated differently in different cells 
+Early in organismal development, cell differentiation begins to take place
+Regulated via transcription factors – proteins that bind to regions of DNA and regulate the readout of genes 
+Neural tube → a structure formed within three weeks of conception in a developing human embryo, a group of cells begins to fold
+Growth cone progresses via the extension of fingerlike structures called filopodia
+Extension is propelled by actions of internal cytoskeletal structure of the cell
+Dynamic cytoskeleton is composed of elaborate ordered arrays of protein polymers - microfilaments made of actin proteins and microtubules made of tubulin proteins
+Microfilaments and microtubules form long strands that perform multiple functions within cells → growth and movement of cell processes (such as axons, dendrites, and dendritic spines), moving materials within the cell
+Insertion and removal of membrane proteins such as ion channels, transporters, and neurotransmitter receptors are orchestrated via cytoskeletal microtubules and microfilaments
+Drugs molecules may interact with microtubules and microfilaments that have not been understood → ex) general anesthetics may result from binding of microtubules
+Santiago Ramon y Cajal examined the cellular morphology of developing neurons and described how axon tips extended and sought out places of connection with other neurons; hypothesized tips of growing axons possessed guidance, mobility
+Roger Sperry answered How did axons from the eye know where to form synapses in the brain, so that normal vision was restored?
+Conducted investigations of process by which neurons form connections
+One of his classic experiments involved cutting the optic nerve in a frog, the connection between frog’s eye and frog’s brain
+Known: Frog’s can regenerate the optic nerve if severed in a frog → normal vision is restored; in regeneration process, axons from eye regrew from eye toward frog’s brain
+Experiment: rotated the frog’s eyeball by 180 degrees and cut optic nerve connection between eyeball and brain
+Result: frog sees world upside down and backward, as if eyeball has simply been rotated w/o cutting and reforming of optic nerve connections in brain to correct damage done to its perception from rotated eyeball 
+Explanation: frog’s nervous system appears to have formed the same connections before severing of optic nerve
+Proposed → chemoaffinity hypothesis → nerve cells use specific chemical signals to guide their wiring during development and during neural regeneration
+Nerve growth and guidance factors: a variety of protein molecules and mechanisms have been discovered that regulate processes of cell growth, differentiation, migration, and synaptogenesis
+1st nerve growth factor, or neurotrophin to be discovered by Rita Levi-Montalcini and Stanley Cohen was named “nerve growth factor” or NGF 
+Other NGF are BDNF (brain-derived neurotrophic factor), GDNF (glia-derived neurotrophic factor), and NT3 (neurotrophin-3)
+Protein that have been found to somehow promote the growth or survival of neurons
+Guidance sometimes involves direct contact between one protein anchored to one cell and another protein anchored to another
+example) ephrin proteins on one cell bind to ephrin receptor on another
+Synapsis that are not used are eliminated, a process called synaptic pruning
+Aspects of neuroplasticity: 
+Year after birth, vast numbers of new synaptic connections form between neurons throughout the cerebral cortex
+Many more connections between neurons are formed during the first year of life than well eventually be retained
+But also being assessed for utility → synapses either strengthened or eliminated
+Embryonic and adult neurogenesis → formation of new neurons from precursor cells provides another potential avenue of neuroplasticity
+Recent research has estimated about fourteen hundred new neurons are added each day within in the two hippocampi of human brain
+Hippocampus is a bilateral structure located beneath surface of temporal lobe known to play a pivotal role in formation and stabilization of memories
+Myelination of axons interconnecting cells within the cerebral cortex continues until past twenty years of age
+
+Chapter 11: Sensory Perception
+
+Sensory perception:
+(1) collection of information from environment via sensory organs and receptors → sensation
+(2) analysis and interpretation of this information by nervous system, contributing to the experience of mental states of perceptual awareness → perception
+Single-celled bacteria detect and respond to physical stimuli in their environment
+example) Escherichia coli and Salmonella respond to presence of chemical substances present in soupy medium through which they move 
+These bacteria swim in a series of maneuvers called runs and tumbles
+Run →  a bacterial cell swims in a straight line for a second or so
+Tumble → stops swimming and flops around for a moment
+It then swims off again in a straight line for another second (a run)
+Runs occur when bacterium’s flagella rotate in one direction and form a bundle that functions like a propeller that produces coherent motion
+Tumbles occur when direction of flagellar rotation reverses, the individual flagella fly apart, forward motion ceases, and bacterial cell tumbles around randomly
+Bacteria swim in what is mathematically called random walk in three dimensions
+Chemotaxis: interact with receptor proteins located on bacterial cell’s outer membrane and influence bacterium to swim toward the nutrients
+E.coli about 2 micrometers in length & swims along an impressive speed of about 30 micrometers per second, tumbling off in a new direction every second or so
+Encounters acids – such as aspartic acid & serine - chemotaxis occurs
+Interaction of nutrients w/ receptor proteins reduces likelihood of tumbling and keeps bacterium moving in a direction where nutrients are present 
+Bacterium continues to swim in a random walk, but its direction is biased by swimming for longer time periods toward nutrients it encounters
+Process of moving toward light → phototaxis (in the case of entire organisms moving toward, such as swimming bacterium) or phototropism (in the case of a bending or growing toward, such as a plant near a window)
+In organisms that use a light as an energy source (photosynthesis), phototaxis & phototropism increase exposure
+Organism that do not derive energy from light, phototropism & phototaxis may enable movement toward a more open region in order to disperse spores or seeds
+Ontology: the study of nature of reality
+Interaction of neural networks with incoming sensory information somehow forms the basis for our mental experience of the world → epistemology in philosophy
+Notion in epistemology called naive realism what we perceive is identical to what actually exists in the world - what we see, hear, smell, taste, and so forth, is exactly what is “out there” in some way
+Vestibular and proprioceptive pathways not considered “primary senses”
+Vestibular sense- sense of motion detected with semicircular canals inner ear
+Proprioceptive- information about muscle tension and joint movement
+Visual pathway in humans responds to a limited range of energies within the electromagnetic energy spectrum
+Electromagnetic spectrum of radiation encompasses an enormous range of energy, from very high-energy gamma rays and x-rays to moderately high-energy ultraviolet radiation, to visible light, to infrared radiation, to microwaves, and finally to relatively low-energy radio waves
+“Visible light” → a narrow band in spectrum spanning less than a single order of magnitude comprises sensitivity range of human visual system
+Karl von Frisch demonstrated that honeybees have color vision
+Placed color paper between papers of different shades of gray and on it laid a small dish with sugar syrup
+Bees from a nearby hive could be trained to recognize color & distinguish it from shades of gray 
+Honeybee visual sensitivity extends into ultraviolet region of electromagnetic spectrum, a range of energies to which we humans are blind
+Nectar guides → act as visual features that attract bees & other pollinating insects & birds to them
+Also, light polarization affects bees → bees need to read the sun’s position from blue sky → direction of vibration of polarized blue light differs in relation to sun’s position across sky
+Demonstrate that honeybees use sunlight polarization patterns as a navigation aid
+Pit vipers → possess structures called pit organs that detect infrared radiation in a way similar to how eyes detect visible light
+Enable snake to accurately locate prey animals even in complete darkness
+Another property of electromagnetic radiation is something called polarization, can be thought of as vibration of electromagnetic field aligned along specific angles in relation to the direction of propagation
+Angle of polarization, & extent to which the light is polarized, varies depending upon where in the sky one looks relative to the sun
+Humans are capable of hearing within the range of 20 to 20,000 cycles of vibration per second
+Unit of cycles per second is called a hertz (Hz)
+Very low-frequency sound, with frequencies less than 20 Hz, is referred to as infrasound (elephants can hear infrasound)
+very high-frequency sound, called ultrasound is inaudible to us but audible to many other animals like dogs and cats
+Echolocation- bats, dolphins, whales emit high frequency sounds and hear reflection
+Electroreception - the detection of electric fields generated by living organisms
+Every living creature is surrounded by electric fields, produced as a result of the movement of charged ions within the organism
+Sharks use electric field generated by the fish as the primary means of detecting its location
+Electroreceptive structures, called ampullae of Lorenzini are densely dispersed over shark’s head
+Sensing of magnetic fields
+Earth’s geomagnetic field is generated by large-scale movement of magnetic atoms in molten interior of the planet → strongest near north & south magnetic poles and weakest near the equator
+Many animals migrate long distances with great accuracy → great deal of evidence indicating that many animals detect the geomagnetic field and use it as a navigational aid
+Classic example → pigeons!
+When magnet was attached to their body, couldn’t navigate home b/c couldn’t sense geomagnetic field
+
+Chapter 12: Nose and Smell
+Olfactory sensory perception begins when odorants - airborne volatile molecules enter the nasal passages, via the constant streams of air inhaled and exhaled through the nose
+Molecules are caught in the nasal or olfactory epithelium → then molecules may come into contact with cilia of olfactory receptor cells, which are populated by olfactory receptor proteins
+Cilia extend into the mucus lining of nasal passage, and their filamentous structure provides a large surface area containing olfactory receptor proteins
+olfactory receptors are G-protein-coupled receptors (GPCRs)
+Each different GPCR responds to molecules having specific molecular shapes
+Humans have about 350 different olfactory receptor proteins
+Within the nasal epithelium are also stem cells - cells w/ enough flexibility to differentiate into various different types of olfactory receptor cells
+Allow receptor cells to be regularly replaced, something that happens about every one to two months
+Human genome has a large number of nonfunctional genes that are altered in some way so that they do not code for functional receptor proteins → pseudogenes
+Humans have about six hundred olfactory pseudogenes
+Speculated that ancestors possessed many more functional olfactory receptor types
+A particular odorant molecule will differentially activate to varying extent some subset of olfactory GPCRs
+It becomes possible to discriminate large number of odorant molecules according to different patterns of activation 
+Term essential oil designates the oily concentrate of aromatic molecule from a plant 
+Essential oil includes many of a plant’s medicinal qualities
+It is oily because the aroma-carrying molecules frequently are hydrophobic
+Essential oils are often prepared by distillation, the process of heating an extract of the plant and concentrating the more volatile components
+Aroma and aromatic derive from the Greek word for spice
+Spices are among the archetypical aromatic substances
+example) cinnamon, caradonum, black pepper
+Plant aromas are composed of dozens of different molecules, which then activate various combinations of olfactory receptor proteins, and that from this own nervous system constructs → mental experience
+Different varieties of roses smell differently because they have different relative aunts of these and many other molecules making up their aromatic essential oil
+Although aromatic qualities of plants are related to complex mixtures of many different molecules having a variety of molecular shapes, often one or two molecules in the mix identify strongly w/ particular odor of plant
+Jasmine aroma → benzyl acetate
+Lemon aroma → geranial (a carbon double bonded oxygen to one end) (aldehyde)
+Rose → geraniol  (carbon bonded to a hydroxyl group at the end) (alcohol)
+All contain sulfur-hydrogen (major chemical constituents of stinky secretion of skunks) (-SH) groups → 2-butene-1-thiol, 3-methyl-1-butanethiol, and 2-quinoline methanethiol
+ Thio refers to the element sulfur and thiol to the -SH group
+These three molecules are examples of organic thiols
+Thiols often smell stinky
+Specific anosmia – loss of sensitivity to a specific kind of smell
+example) “asparagus pee”
+Most likely cause is genetic variation in one of the olfactory GPCRs
+General anosmia – loss of sensitivity to a large variety of aromas, in some cases even a complete lack of olfactory sensitivity
+Causes: ranging from nasal congestion to unknown developmental factors to head trauma to degenerative brain disease
+Hypersomnias → increased sensitivity to odors
+Olfactory receptor cells send axons into the olfactory bulb of the brain, in humans located immediately above and adjacent to the nasal cavity
+Nerve fibers between nose and olfactory bulb constitute cranial nerve 1
+In olfactory bulb, axons form synapses w/ dendrites of mitral cells
+Mitral cells send axons to the pyriform cortex – buried deep in the interior of the brain and to the amygdala
+(more steps page 274) → outcome is conscious perception of aroma
+Alfred Russel Wallace- natural selection decider
+Pheromones are chemicals that carry signal information related to social communications between members of the same species 
+Extensive research on insects 
+Generally thought to elicit innately programmed behaviors or biochemical changes, things not requiring learning
+Many vertebrate animals → demonstrated to have a distinct olfactory sensory structure and neural pathway called vomeronasal system that responds to somewhat selectively to pheromone molecules 
+But some pheromones are also detected by receptors in main olfactory pathway 
+Parosmia- distortion and weirdness of olfactory perception
+
+Chapter 13: Tongue and Taste
+Receptor cells that begin process of gustation, taste is located in the mouth, primarily the tongue, w/ a few on the upper palate and pharynx → grouped into clusters called taste buds
+Approximately ten thousand taste buds in human mouth, each containing around a hundred taste receptor cells → possibly 1 million taste receptor cells in our mouth
+Pore exposing receptor cells to interior of mouth → ends of receptor cells are composed of microvilli, filamentous structures increase the surface area exposed to tasty substances
+Within in phospholipid bilayer membrane of microvilli are taste receptor proteins
+Similar to olfactory system, stem cells adjacent to the taste receptor cells can differentiate into various types of taste receptor cells, characterized by their different taste receptor proteins
+Allows taste receptors cells to be regularly replaced, with a turnover rate of about two weeks 
+Related to regular replacement is presumably related to cells being constantly exposed to all kinds of toxic gunk from environment → subject to continual damage
+Five types of taste receptor cells have been described in the human mouth: salt, sour, bitter, sweet, and umami
+Characterized by different kinds of taste receptor proteins, responding to different kinds of substances floating around in the mouth, and give rise to signals that are associated with different perceptual experiences of tastiness 
+Salt: proteins on taste receptor cells related to perceptual experience of saltiness are thought to be channels that allow sodium ions to flow across the membrane
+Na+ is believed to flow through sodium ion channels in the salt taste receptor cells, triggering a neural signal to the brain
+Sour: taste of “sour” is taste of acids
+example) citric acid from grapefruit and lemon, acetic acid from vinegar, lactic acid from sauerkraut and yogurt
+Defining feature of acids is release of hydrogen ions (H+) in solution, so sour taste is associated w/ hydrogen ions
+Proteins on taste receptor for sour experience appear to be channels sensitive to hydrogen ions → triggering a neural signal to brain
+Bitter: proteins that initiate signals associated w/ bitter are GPCRs
+More than thirty different GPCR proteins are distributed over the receptor cells associated w/ bitter taste
+When a ligand floating around the interior of the mouth comes into contact w/ microvilli of a bitter taste receptor cell and binds to a GPCR, this initiates an intracellular signaling cascade leading to release of neurotransmitter and generation of a signal to the brain
+Sweet: two GPCRs associated w/ sweet receptor cells limit taste of sweetness to a smaller diversity of molecular shapes
+Artificial sweeteners → non nutritive and synthetic
+1st known substance was saccharin; 300 times sweeter than sucrose; also interacts with one or more of the bitter GPCRs as well as with sweet receptors
+Saccharin presumably binds to the sweet receptor protein & activates it much more strongly than does sucrose
+Other artificial sweeteners → cyclamate acesulfame aspartame
+Sweeter than sucrose: sucralose; 600x sweeter than sucrose, neotame; 1000x sweeter than sucrose
+The “principle of limited sloppiness”- coined by Max Delbruck to describe where unexpected discoveries are made due to sloppiness
+Umami: glutamate produces distinctive taste of certain seaweeds, fish cause, soy sauce, and dried fish
+Kikunar Ikeda proposed method for concentrating taste essence in the form of MSG
+Receptor cell responds to glutamate w/ taste receptor proteins that are metabotropic (GPCR) glutamate receptors
+Glutamate is an amino acid
+Gustatory neural pathways
+Taste are mental experiences; these mental experiences are associated in some way with neural signals that originate with taste receptor cells and travel to the brain, where they bloom into the activation of networks of neurons and glia within particular region of the brain
+Cranial nerve fibers carrying taste sensory information enter the brain via the lower brainstem and connect with cells in the nucleus solitarius → two axon tract: one heading to thalamus and insula, other heading to hypothalamus and amygdala
+ A famous example of spicy hotness is the chili plant, mostly the species Capsicum Annuum
+Hotness of chili is associated w/ presence of a single molecular constituent – capsaicin
+Proteins have been identified in the mouth that are sensitive to capsaicin
+When capsaicin binds to one of these receptor proteins, a shape change occurs, an ion channel opens, and calcium ions flow from outside the cell to inside, depolarizing the cell and leading to increase neural excitability
+Thermal heat also activates these capsaicin-sensitive proteins
+Increasing temperature of protein causes same kind of shape change as the binding of capsaicin, same opening of a Ca++ channel, and cell excitability 
+It was soon appreciated that capsaicin receptors are members of the ionotropic proteins → known as TRP channels “transient receptor potential”
+Capsaicin receptor is now known by the name TRPV1
+Its ion channel opens in response to capsaicin and also to heat in temperature range of 43-50 degrees celsius
+Menthol is appreciated for its distinctive flavor qualities, including producing a perception of a kind of “coolness”
+An ionotropic receptor proteins found in mouth and elsewhere in the body, in which a calcium channel opens in response to the binding of menthol
+Temperature somewhat cooler (8-28 degrees celsius) than body temperature produce a shape change of this protein and open the channel
+Also a member of the TRP receptor family → known as TRPM8
+Isothiocynates → characterized by a particular configuration of sulfur, carbon, and nitrogen atoms → examples mustard, horseradish, and wasabi
+Another type of ionotropic Ca++, called TRPA 1, activated by binding of isothiocyanates
+Activation of TRPA1 receptors results in neural signals from a different set of cells → associated with a qualitatively different experience of hotness and pungency
+TRP-type channel proteins are all over the body: mouth, skin,and elsewhere in the nervous system
+TRP channels are example of structures being tweaked and modified to be used for different purposes and locations that are often related		
+TRP-type channel proteins turn out to be all over the place in the body: in the mouth, where they are associated with the perception of spicy and pungent hotness and with minty coolness; within the skin, where they are involved in the perception of temperature and also of touch and pain (see Chapter 16); and elsewhere in the nervous system, where they are likely involved in neural signaling  
+Flavor is a combination of several different channels of sensory information
+Texture also contributes to flavor
+Perhaps most important to flavor are aromatic molecules sensed by olfactory system
+We are always smelling what we are eating and drinking
+As air from out mouth is drawn back into the throat, it carries aromatic molecules from whatever we are eating or drinking up into our nasal passages from the inside, the back way
+
+Chapter 14: Eye and Vision
+
+Electromagnetic energy → vibrating electromagnetic field moving (radiating) through space; quantitatively either as frequency of vibrations or a wavelength 
+Visible light → energy range between 400 to 700 nanometers(nm) 
+Human visual system responds to electromagnetic radiation in the energy range of visible light
+this range can engage in significant and sustainable (non damaging) interactions with molecular and cellular structures in the body
+More energetic radiation (shorter wavelengths) than visible light → ex) ultraviolet, x-ray, & gamma-ray regions of spectrum → interactions w/ molecular & cellular structures are likely to be damaging 
+Bc chemical bonds break & molecules fall apart, free radical form, DNA is damaged, cell membranes become leaky
+But radiation in lower energy (longer wavelength) → ex) infrared, microwave, & radio wave → interactions w/ molecular & cellular structures might not be energetic enough to generate a reliable neural signal
+Receptor organ for human vision is the eye
+Retina → complex structure, consisting of a layer of light-sensitive photoreceptor cells and several layers of interconnected nerve cells 
+Heavily crisscrossed w/ blood vessels, as photoreceptor & other neural cells require a robust supply of biochemical fuel (glucose & oxygen) to function
+Light coming from the center of visual field is focused by the lens onto the center of the retina →  region called the fovea
+In the fovea, photoreceptor cells are the highest, so visual acuity (ability to see fine detail) is best for the region of space where we are directly looking
+Human retina contains two major kinds of photoreceptor cells: rods and cones
+Rod cells are rod shaped w/ numerous distributed throughout most of the retina & very sensitive to small amounts of light
+Cone cells are cone shaped, most located at the fovea & respond to higher intensity rather than dim light
+3 types of cone cells 
+Rod & cone cells contain specific protein molecules called rhodopsin & cone opsins, that absorb light & initiate the process of transformation of light energy to neural signal 
+Rhodopsin & various cone opsins absorb light in slightly different regions of visible light spectrum
+Short-wavelength (S), medium-wavelength(M), and longer-wavelength (L) absorbing cones
+S,M,L cones are sometimes referred to as blue, green, and red cones
+Color vision depends on comparing the amount of activation of three different cone photoreceptor types by various wavelengths of incident light 
+As one moves from 400 nm to 700 nm across the spectrum of visible light, our perception generates colors: violet, blue, green, yellow orange, and red
+Colors are mental experiences 
+Humans and primates animals have trichromatic color vision → mediated by three different types of photoreceptors w/ different light-sensitivity range
+Genes for M  L opsins are found on X chromosome; genes for S opsin & rhodopsin are found on nonsex chromosomes
+Some human females will have both L opsin variants & thus be tetrachromats → more nuance to discriminate colors → especially orange-red of color spectrum
+Males cannot have more than trichromatic color vision → only one version of L opsin 
+S cone opsin genetic variation is much less common → not located on a sex chromosome
+Retinal achromatopsia → a genetic or developmental anomaly results in loss of all functional cone cells 
+Experience no color; see world in shades of black,white, and gray
+Greater appreciation for subtle gradations of contrast, shadow, and texture that is more nuanced than someone of normal vision
+There are no cones or rods in the blind spot, the place where axons forming the optic nerve exit the eye
+Any light falling on that part of the retina will not be detected
+Location of blind spot is different for each of the two eyes – if both eyes are open and functioning, visual system can use the information received in one eye to fill in the blind spot for the other eye
+One hundred million rod cells & five million cone cells 
+Cones are concentrated at the fovea → color perception is best when light from the object being viewed is focused there
+Away from the fovea there are many rod cells, the cells that are more sensitive to dim light
+Outer segments of rod and cone cells contain the rhodopsin and cone opsin photoreceptor proteins 
+Inner segments contain nuclei, mitochondria, and other structure necessary for functioning of cell
+Within a rhodopsin or cone opsin there is another molecule → a small molecule attached to the opsin protein via a covalent bond w/ a nitrogen atom in a specific lysine amino acid within the protein → called retinal
+Retinal molecule absorbs the light and begins the cascade of events leading to a neural signal
+Different amino acid sequences and arrangements in various opsin proteins produce different electronic environments, altering molecular energy levels in the attached retinal and thereby changing light absorption spectrum
+Retinal is made from closely related molecules that we eat: Vitamin A and carotenoids
+Vitamin A is also called retinol, differs from retinal by addition of hydrogen to oxygen atom at the end of the chain
+Carotenoids, such as beta-carotene are widespread in plants & are the most abundant chemical precursors to retinal and retinol in nature
+Retinal molecule is bound to the protein in rhodopsin or one of the cone opsins, occurs in a form (11-cis isomer of retinal) where carbon-chain portion of molecule is bent or kinked
+Absorption of a photon of light by the retinal molecule triggers a change in shape of change so that it rotates around the double bond where kink is and straightens it out into a form called all-trans isomer of retinal
+Process is called light-induced isomerization or photoisomerization
+In straightening, the retinal pushes on amino acid surrounding it and, in so doing, shifts the shape of the entire opsin protein
+Opsin proteins are familiar friends – GPCR
+When they change shape, a cascade of intracellular events is initiated
+In rhodopsin GPCR cascade:
+A photon of light is absorbed by 11-cis retinal in rhodopsin, the retinal isomerizes to the all-trans form, shape-shifting the opsin protein, and thereby “activating” it
+Activated opsin become available to bind an intracellular G-protein & the G-protein becomes activated
+More details on page 312
+A single photon of light can have significant impact on a rod cell’s signaling to other cells in the retina
+The are three major layers of cells in the retina: photoreceptor cells, bipolar cells, and ganglion cells
+Rods and cones form synapses w/ bipolar cells and bipolar cells form synapses w/ ganglion cells
+Neural signals thus flow from the photoreceptors to the bipolar cells to the ganglion cells and thence the brain
+Axons of the ganglion cells bundle together to form the optic nerve, which exits the eyeball at the blind sport
+Two other major cell types in the retina are also wired into to this connectivity and contribute to this integration: horizontal cells and amacrine cells → both of which are present in the same retinal layer as the bipolar cells 
+An important property of neural cells in the visual system –beginning w/ the photoreceptor, bipolar, & ganglion cells in the retina – is the receptive field
+Bc of light-focusing properties of the eye, photoreceptor cells will respond only to light stimuli that come from specific regions of visual space
+About 10% of the optic nerve axons go into a part of the midbrain called the superior colliculus 
+Heavily involved in very rapid responses to sensory stimuli in ways that do not involve awareness
+Almost 90% of the optic nerve axons head to the thalamus where they enter a prairie of structures called the lateral geniculate nuclei (LGN)
+Axons carrying information form the right visual field go to the left side LGN, and axons carrying information from the left visual field go to the right-side LGN
+LGN cells send axons into the rearmost region of the cerebral cortex, posterior occipital lobe, where they form synapses w/ cortical neurons
+Crossing over of information between the spatial environment (visual space) and the brain is called contralateral connectivity
+Visual cortex → occipital lobes, together with posterior regions of the temporal lobes are involved in the analysis of visual information
+Visual map: world to retina to cortex
+Light from objects in the external world (visual space) is detected by photoreceptors in the retina such that objects appear nearby in visual space will stimulate photoreceptor cells that are near to one another in the retina
+This topographic relationship between objects in external visual space is preserved all the way through the retina to the LGN and into the visual cortex
+From LGN, information first goes to a region in the posterior occipital lobe called visual area 1, or V1
+Cells in V1 send axons to other nearby regions of the cerebral cortex called V2, V3, V4, and V5
+All these visual areas are very highly interconnected w/axons going in both directions between any two areas
+V1 → responds to edges of objects
+V4 → responds to specific colors & are less influenced by things like shape and movements
+V5 → responds to movement and its speed and direction
+Each of these visual areas contains something like a map of visual space
+A lesion in V1 results in a visual scotoma, a blind spot in a specific region of space
+Damage to V1 produces a substantial disruption to the flow of visual information in the brain
+Corresponding to whatever region of the spatial map in V1 that has been impacted by the lesion, there will be blindness to the corresponding region of visual space
+Hemianopsia → loss of vision in one half of visual space
+David Hubel and Torsten Wiesel- measured neural signals in cortex of animals
+Cortical achromatopsia → A lesion in V4 produces a disruption of color vision, color disruption may vary from washed out or faded color perception to a complete loss of color awareness
+The cause if related to a cortical lesion rather than retinal condition as in retinal achromatopsia 
+A lesion in V5 produces akinetopsia, or motion blindness → person is unaware of movement in some region or regions of visual space
+Region in the inferior (lower) and medial (middle) temporal lobe  that has been found to contain cells that respond selectively to images of faces
+Sustaining a lesion in this area may bring on a clinical condition called prosopagnosia → person has great difficulty or even a complete loss of ability to recognize faces
+Prosopagnosia is a specific type of a more general neurological syndrome called agnosia
+Integrating details into a meaningful whole object or scene may be severely disabled
+Serious visual agnosia may have difficulty recognizing all or nearly all visual objects
+Visual agnosia are often associated with lesions in the region where the occipital, temporal, and parietal lobes comes together
+
+Chapter 15: Ears and Hearing
+Most dictionary definitions of sound conflate these two possible meanings (mental experiences and physical vibration)
+Mental experiences of sound is believed to be generated by processes of the nervous system elicited by the physical stimulus of rhythmic air pressure variation 
+Example tree falling) tree falls, compresses the air molecules (nitrogen & oxygen, mainly) in the vicinity, producing a transient increase in their density
+Increased density pushes on the nearby molecules, compressing them; compression if followed by a rebound of rarefaction, or thinning
+Variation in air pressure moves out into the space around the falling tree as a wave of pressure variation, traveling at the speed of sound 
+A sound wave moves through air at a speed of 1,100 ft per second or 335 meters per second, or 750 miles per hour
+For any moving wave, velocity of movement is equal to the frequency of variation multiplied by the wavelength → for an air pressure variation oscillating at 200 Hz, the distance of one cycle, or wavelength is 5.5 feet:
+Wave velocity = frequency x wavelength
+1,100 ft/sec = 200 cycles per second x 5.5 feet per cycle
+Higher the frequency, shorter the wavelength 
+lower the frequency, longer the wavelength
+Relationships shared by all propagating waves → sound, water, seismic, etc.
+For sound, human auditory system is sensitive to air pressure variations in the range approximately 20 to 20,000 Hz
+Frequency is generally the preferred unit of description for sound, although wavelength could also be used
+Higher frequency (faster) pressure variations are experienced as higher pitch or tone
+Lower frequencies of pressure variation are experienced as sounds having lower pitch or tone
+Loudness of a sound is associated w/ amplitude or magnitude of the pressure variation, w/ high amplitude variations experienced as louder than low amplitude variations 
+Timbre is related to the complexity of the sound waveform 
+Most actual air pressure variations are not single frequencies; rather they are complex waveforms having mixtures of several different frequencies 
+Most complex waveforms are associated with mental experiences of sound having richness and complexity beyond that of pure tones – this is timbre
+Example of timbre → musical instruments
+Joseph Fourier studied phenomenon called Fourier analysis → any complex waveform describing a vibration can always be represented as a sum of sine waves having various frequencies and amplitudes 
+Hearing begins w/ air pressure variations entering the outer ear
+Most external structure of the ear, the pinna → functions as a funnel or antenna, collecting and focusing vibrations of air pressure into the ear canal
+Ear canal terminates at the tympanic membrane or eardrum; eardrum forms the boundary between outer ear and middle ear
+Middle ear consists of a cavity occupied by three small interconnected bones, collectively called ossicles
+Individually called hammer, anvil, and stirrup 
+As the eardrum vibrates, the hammer also vibrates → vibration transferred to the anvil and thence stirrup which is attached to oval window
+Oval window defines the boundary between the middle ear and inner ear, which consists of the cochlea  and semicircular canals collectively called bony labyrinth
+Interior of the bony labyrinth is filled w/ fluid (water and ions) and vibration of the oval window sets the fluid inside the cochlea into vibration
+As oval window vibrates, it pushes on the fluid inside the cochlea and creates a wave the propagates through the interior of the cochlea → fluid vibrates from cochlea  and down the central core of its spiral interior(a thin tissue called basilar membrane)
+As the surrounding fluid vibrates, basilar membrane vibrates too
+Basilar membrane varies in thickness, being thickest at the end nearest the oval window and thinnest at the other end
+Variation in thickness is due to different regions of the basilar membrane to be set into vibration at different frequencies, a phenomena called resonance
+Thicker end vibrates resonantly w/ higher frequencies, and thinner end vibrate resonantly w/ lower frequencies
+Bc most sounds are mixtures of different frequencies, an incoming sound will set into vibration multiple regions of the basilar membrane
+Basilar membrane creates a spatial representation of the component frequencies of sound entering the ear – a fourier analysis  of the sound
+Basilar membrane performs a fourier analysis of the incoming sound and represents the result spatially along the length of the membrane pg.334
+Along the length of the basilar membrane are several thousand elegant little cells, called hair cells 
+Cells are characterized by a bundle of hairs or cilia attached to one end
+As basilar membrane vibrates, the hair cells also vibrate and their cilia swoosh to and fro through the surrounding fluid
+At the opposite end of the cell from the bundle of cilia, the hair cell forms chemical synapses w/ fibers of the auditory nerve, cranial nerve 8
+Bending of the hairs initiates a signal from the hair cell to the nerves carrying signal information to the brain
+Hair cell to neural signal in detail (pg. 336)
+Tiny movements of the hair are sufficient to open the mechanically-gated ion channels, leading to release of neurotransmitters at the synapse w/ the auditory nerve
+There is a different way which sound energy can reach the inner ear – a different path from that of the external ear canal route: direct vibration of the bones of the skull that surround the cochlea
+Situation for skull vibration: Vibration of hearing one’s own voice as one speaks or sings or hums 
+vibration of vocal cords and other structures involved in the generation of these sounds produces variations in air density that propagate away from the body → what other hear
+Air pressure variations also enter one’s own external ear canal, and some of what we hear when we hear the sound of our own voice enters the auditory system in the way we have described
+Much of the vibrational energy sensed when we hear ourselves speak enters the auditory system via internal vibration of the skull
+Frequency composition will differ for one’s voice as heard by oneself compared with what is heard by another person
+One’s voice heard by the speaker while speaking will sound different than the same voice hear by another speaker 
+In auditory signaling, neurotransmitters is released form the hair cell, and a signal is generated in the postsynaptic dendrite of cranial nerve 8 
+Cell bodies for these nerves are located nearby in a cluster called  spiral ganglion, one cluster for each ear
+These are called bipolar neurons w/ a single myelinated dendrite receiving the signal from hair cell and myelinated axon carrying signal into the brainstem 
+In brainstem’s medulla, axons of auditory nerve synapse w/ cells in a region called the cochlear nucleus
+Neurons of the cochlear nucleus send axons to cells in regions of the pons called the superior olive and the lateral lemniscus
+(more details on 340) auditory neural pathway into brain
+The MGN sends axons into the temporal lobe of the cerebral cortex, to a region called the primary auditor cortex, or A1
+ Vast majority of the hair cells sending signals to the spiral ganglion and thence to the cochlear nucleus are the so-called inner hair cells (3500 per cochlea)
+Outer hair cells may be minimally involved in the direct detection and transduction of the auditory signal and instead function to change the sensitivity of the basilar membrane, making it more sensitive low volume sounds 
+Contina a protein called prestin that elongates and contracts as a function of membrane potential changes
+Change in shape affects the entire cell, which then pushes against the basilar membrane, changing its stiffness and sensitivity
+Spatial mapping of frequency that began at the basilar membrane is preserved all the way through the pathways to A1
+Loss of hearing:
+Possible causes of hearing loss are infections of the inner eat that cause irreversible damage to hair cells
+Other causes of hearing are genetic anomalies that result in malfunctions of the cochlea
+Individuals possessing such anomalies may be born w/ imparied hearing or even complete deafness
+One such anomaly involves a gene coding for a connexon ion channel protein, of the same type as those forming electrical synapses between neurons and glia 
+A mutation in the gene coding for a particular channel in the cochlea is known as connexin 26, produces abnormal ion balances within the cochlea —> hair cell cannot function → person is deaf
+Most common cause of hearing loss is acoustic trauma – exposure to loud sounds
+Even brief exposure to very loud sounds (acute acoustic trauma) such as gunshots can result in permanent hearing loss
+0 dB represents the approximate threshold for human hearing, and each increase of 10 dB represents a factor of ten increase in loudness
+Intense overstimulation of hair cells → hair cells may die from a kind of excitotoxic overstimulation
+Acoustic amplifier is the most common kind of therapeutic device used to help people who have suffered hearing loss 
+Bony labyrinth also consists of three orthogonal semicircular canals together w/ two bulbous cavities called the utricle and saccule (pg.345)
+These are sensory structures of the vestibular system, detecting our orientation relative to gravity and our acceleration as we move, walk, and turn
+Allows us to maintain a balance and execute smooth and coordinated movements
+Without a vestibular system we would be bumbling around pretty badly
+Functioning of our vestibular system is pretty much out of our conscious awareness, except when something disrupts it  like getting dizzy
+Otoliths: tiny microscopic stones, crystals of calcium carbonate
+suspended in the fluid above hair cells 
+as body accelerates or changes in orientation w/ respect to gravity, the inertia of these little stones contributes to bending the hairs of the sensory cells
+Tiny rocks in our inner ear contribute to generating and amplifying the sensory signals that allows us to maintain balance as we move 
+
+Chapter 16: Skin, Touch, Movement
+Skin is the largest sensory organ
+Dendrites of somatosensory neurons terminate in the top layers of skin and the membranes of these nerve fibers contain receptor proteins that respond to touches, pokes or changes of temperature
+Some nerve fibers have free endings in the skin’s topic years
+Sometimes endings are associated w/ hair follicles
+Some nerve fibers end in structures that respond to pressure (Merkel’s disks, Pacinian corpuscles, Meissner’s corpuscles, Ruffini endings)
+Receptors responsive to touch and poking are presumed to be based on some sort of mechanically-gated ion channels → similar to inner ear hair cells that bend
+Cell bodies for these fibers are located in clusters of cells near the spinal cord called dorsal root ganglia (DRG)
+DRG nerve fibers innervating the skin are contiguous w/ axons that send signals into the central nervous system
+Peripheral dendrites also contain voltage-gated sodium and potassium channels and are myelinated; activation of sensory receptor proteins by physical stimuli → generate action potentials that propagate towards the DRG, bypass cell body, and continue along axon into CNS
+A DRG dendrite functions like an axon except that action potentials propagate toward the cell body instead of away from it
+Somatosensory neurons have spatial receptive fields – region of skin where a physical stimulus elicits activity in the specified neuron
+More on pg. 350 abt somatosensory circuitry & neurons → sensory body map
+The primary somatosensory cortex (S1) contains a topographic representation of somatosensory space – the surface of one’s own body
+Somatosensory cortex receives signals from the contralateral side of the body
+A lesion in S1 produces a loss of sensation in a particular region of the body related to where the legion is on the body map in S1
+Wilder Penfield  → discovered somatosensory body maps by humans undergoing brain surgery in the 1930s
+He electrically stimulated various regions of the cerebral cortex in patients on whom he was performing brain surgery
+During these surgeries, patients were awake and able to respond to his questions 
+Stimulated different parts of the brain → asked patients to described associated experience 
+Penfield characterized the location of the somatosensory cortex in the parietal lobe and was first to describe the somatosensory map of the body
+In the somatosensory cortex, body is represented more or less according to how things are anatomically connected on actual body
+There are differences between the cortical map and actual body topography
+The cortical map does not have same relative scale between various body regions as does the actual body
+ex)sensory information from fingers & hand is about the same size as region of ap receiving information from rest of body 
+Somatosensory acuity can be easily measured using the two-point discrimination test
+A wire paperclip bent into a U-shape → one person closes their eyes → experimenter touches U-shaped wire on subject’s skin such that the two ends touch skin at the same time
+When the U is touching the fingertips or the lips, ends of U can be very close together → subject will still be able to experience two separate points of touch
+Represents a high degree of somatosensory acuity – a result of densely packed somatosensory dendrites connected to many separate neurons each having small receptive fields and projecting eventually to a region of the parietal lobe (S1) where large numbers of neurons receive the signals (354)
+From primary somatosensory cortex, information is sent to other more posterior regions of the parietal lobe → regions are S2, S3, S4, S5, and so on
+Collectively called the secondary somatosensory cortex (posterior secondary cortex on study guide)
+They contain maps of the body, butthings represented in these maps are far less clear than S1
+Lesions in secondary somatosensory cortex are associated w/ various kinds of somatosensory weirdness → may also cause neglect syndromes in which touch sensation is intact but is usually ignored or not recognized unless one’s attention is specifically drawn to it 
+If mice whiskers were to fall out → they develop neural connections w/ other nearby neurons that contribute to the analysis of signals coming in from whiskers next to the one that was lost (pg. 355)
+Development of new neural connections involves new growth and branching of axons and dendrites, as well as strengthening of connections that were already in place but not much used → example of neuroplasticity
+Analogous process in humans → sometimes a person may lose an arm or leg and often the person will continue to feel the presence of the amputated limb → phenomenon called phantom limb (pg. 356)
+Any somatosensory input that activates neurons in these adjacent areas would also spill over and activate neurons in the area with the lost limb
+Experient by V.S. Ramachandran
+Touching an amputee’s face (on the same side of the body as the amputated arm) elicits both the feeling of cheek being touched and the feeling of the phantom arm being touched in specific locations
+Recognized perceptions also extend to temperature and other sensations
+Moving anterior to the central sulcus into the frontal lobe, we encounter another body mao discovered by Penfield → primary cortex or M1 → body map of neurons that send out signals that initiate the contraction of skeletal muscles involved in the movements of our body (pg.358)
+When neurons in M1 fire, signals propagate vis the spinal cord and eventually arrive at synapses w/ muscles of the boyd, neuromuscular junctions
+At these junctions, acetylcholine is release, which triggers contractions of muscle fibers
+There collateral convention between M1 and body; right posterior frontal lobe’s M1 controls movements of the left and opposite for other side 
+Lesions in M1 produce an inability to move muscles associated w/ corresponding part of body map → partial paralysis
+Anterior to M1 in the frontal lobes are several other areas also intimately involved in the control of body movements → collectively called supplementary motor areas or premotor areas
+Neurons in these areas are active before the generation of signals in M1 and are involved in planning and sequencing muscle movements
+Lesions in premotor areas → give rise to disorganizations of movement
+ex) person w/ frontal premotor lesion might be able to execute individual movement associated w/ particular action but would not be able to organize and sequence appropriately 
+Disorders in the organization of movements are called apraxias
+When efferent motor signals are sent from M1 to the peripheral muscles to trigger movements, an “efference copy” is also conveyed to sensory cortex, so that the brain immediately “knows” what the body is doing and can plan accordingly
+Constant communication between sensation and movement makes eminent sense, because to execute smooth movements through the environment, movement must be continuously integrated w/ knowledge about one’s surroundings obtained via sensory perception
+If I am moving my arm in a specific way, collections of neurons in my premotor areas are active during the organization and execution of this movement
+Come of these neurons may also fire when I see other people move their arms in similar ways → such cells termed “mirror neurons”
+It has also been invoked as a contributor to the neural basis of empathic connection between individuals – ability to connect w/ another person's emotional experience
+Another part of the brain that is centrally involved in the regulation of movement is the cerebellum → wraps around the brainstem and is very densely packed w/ neurons and neural connections 
+Around 50 billion nerve cells in the human cerebellum → meaning there are more neurons in the cerebellum alone than there are in the rest of the brain
+Cerebellum is involved in timing and coordination of movement
+Individuals who sustained damage to their cerebellum are not apralyzed but are impaired in their ability to smoothly execute movements
+Movements are notably comprised in timing, leading to ideas that a primary role of the cerebellum may be to generate exquisite regulation of timing of movements 
+A type of cerebellar neuron is the Purkinje cell → each purkinje cell may have several hundred thousand dendritic spines receiving input from other neurons 
+Individuals who have sustained damage to their cerebellum are no paralyzed, but are impaired in ability to execute smooth movements
+Posterior frontal lobe damage results in paralysis
+Anterior parietal lobe damage results in loss of body sensation and other somatosensory weirdness 
+A right-hemisphere lesion → in addition to sensory and motor effects on the left side of the body, the patient may deny that there is anything wrong at all → condition called anosognosia 
+Anosognosia is characterized by a lack of knowledge about one’s own disease
+
+Chapter 17: Imaging the Brain
+
+Lesion  is the general term used to denote an injury to, or other abnormality in the body → Among the causes of brain lesions are stoke, tumor, physical trauma, and certain brain diseases
+Stroke occurs when there is a disturbance in blood flow to a region of the brain sufficient to produce a loss of function (pg. 365)
+ If disturbance lasts for more than a very brief time (a few minutes) then there is likely to be cell death and loss of function that may be permanent
+Two immediate causes of stroke → blockage of blood flow and hemorrhage
+Blockage occurs when particulate matter become lodged in a blood vessel
+Hemorrhage occurs when a blood vessel breaks and leaks blood into the surrounding tissue
+Occurs where there is a weakness in structure of the blood vessel
+Sometimes the structural weakness bulges out from the pressure of the blood → aneurysm
+If aneurysm ruptures → hemorrhagic stroke
+Brain tumor is an anomalous proliferation of cells in the brain
+May either be benign or malignant
+Abnormal tissue growth often disturbs the normal functioning of nearby neural tissue, producing symptoms that may manifest as changes in perception, other mental function or behavior
+Head injury may be two general types: closed or penetrating
+Closed head injury occurs when there is a whack of some kind to the head, or even a sudden powerful acceleration or declaration
+example) concussion
+Damage to the brain may occur from shearing forces within the tissue or internal contact w. The bone
+Internal swelling may occur; most head injuries are this type 
+In penetrating head injury, integrity of skull is compromised and brian comes into direct contact w/ an external agent of damage
+Certain diseases are associated w/ identifiable lesions in the brain
+example) Parknison’s disease
+X-rays are a kind of electromagnetic radiation having energy substantially higher than that of visible light or ultraviolet light
+Discovered by Wilhelm Rontgen
+Because of their high-energy, x-rays can penetrate many kinds of solid matter
+Because bone is less permeable to x-rays than the surrounding tissue, it was most easy to visualize the skeletal structure inside a body and detect the location and nature of damage
+w/ finer tuning of the amount of radiation used, technology was developed that permitted visualization of different kinds of organ tissue on an x-ray photography
+May see brain lesion, but limited in ability to locate lesion, so increased precision can be found by taking series of x-rays at different angles and combining them to make 3D model of brain (led to CT scan)
+CT scan – C for computer and T for tomography, sometimes referred to as a CAT scan, with A for axial (the slices are along a central axis of symmetry of the brain)
+A CT scan generates a three-dimensional representation of the brain’s internal structure 
+X-rays high energy is damaging to any molecules they encounter, by breaking covalent chemical bonds and disrupting the structure of the molecule 
+X-rays give rise to mutations in genes and other kinds of anomalous activity in the transcription of genes
+Another structural brain imaging that uses the power of computers to manipulate large quantities of information is Magnetic resonance imaging or MRI
+Can produce three-dimensional reconstruction of internal structures of a living brain or other parts of the body
+Uses quantum spin instead of x-rays
+This is a property of subatomic particles, in particular, of the protons and neutrons in atomic nuclei
+Atomic nuclei possess a nuclear spin that arises from the combinations of spins of the constituent protons and neutrons 
+Nuclear Spin interacts w/ magnetic fields (pg.369)
+Experimental technologies were developed in the 1940s to measure these effects → process was called nuclear magnetic resonance or NMR
+An NMR spectrometer consists of a large magnet to produce a very strong magnetic field and a device to generate electromagnetic radiation of appropriate energy to perturb the alignment of nuclear spins
+A tesla is a unit of magnetic field strength → 1 tesla is equivalent to 10,000 gauss
+Gauss is another unit of magnetic field strength 
+In these units, Earth’s magnetic field measures about 0.5 gauss or 50 microteslas
+Thus, strengths of magnets used in NMR spectrometers are substantial
+In a living organism, the most abundant atom is hydrogen
+Possible to focus on measuring the spin properties of hydrogen atoms in water molecules within the body
+Different kinds of tissue will form differing chemical environments for water
+Thus, spatial pattern of different resonant energies may be used to construct an image of the interior of the organism
+NMR was changed to MRI in terms of naming 
+An MRI of the brain can yield sharpness of anatomical detail superior to that of a CT
+dynamic/functional imaging technologies measure neural activity within a living brain and provide information about how this activity varies over time and different regions of the brain (pg. 373)
+When nerve cells send and receive signals, electrical current flows 
+Current is produced by movement of electrical charge associated with the flow of ions in axons and dendrites
+These moving electrical charges generate electromagnetic fields that pass through the surrounding tissue and are detectable at the surface of the head
+If electrodes are attached to the scalp, electric field changes having their origin in neural activity of the brain can be recorded → method is called electroencephalography or EEG
+A graph of brain electric field changes as a function of time is called an electroencephalogram, sometimes referred to as a brain wave
+EEG gives a measure of neural activity averaged over large regions of the cerebral cortex (not for precise measurement b/c electrical fields get distorted and smooshed around as they pass their source locations)
+Marvelous for time resolution, spatial resolution limited (64-128 electrodes is standard practice)
+The first first EEG recording from a human brain was made by Hans Berger
+In 1940s and 1950s, Wilder Penfield recorded electrical activity directly from the cerebral cortex of people who had their brain exposed during surgery
+Allowed for higher resolution of locations of neural activity
+Interested in mapping regions in which seizures originated, in order to carefully excise epileptogenic (seizure generating) tissue
+Direct from brain recording has continued to be developed into a highly refined technique called electrocorticography or ECoG
+Magnetic fields induced by the electric currents associated w/ neural activity can be measured in the vicinity of the head
+The result is another kind of brain wave →  magnetoencephalogram 
+Technique used to make the measurement called Magnetoencephalography or MEG
+Shielding accomplished w/ metal rooms shushing magnetic fields
+To detect very weak magnetic fields generated by neural activity, MEG uses SQUID
+Superconducting quantum interference device based on properties of superconducting currents in the presence of magnetic fields
+Another technology for imaging dynamic activity in the brain is positron emission tomography or PET 
+Technique uses properties of particular radioactive chemicals to visualize cellular activity in the brain
+Beta decay → when an unstable nucleus emits either an electron or a positron
+Gamma decay → when an unstable nucleus emits a gamma-ray photon
+Alpha decay → when an unstable nucleus emits a blob made of two protons and two neutrons
+PET uses unstable elements that undergo beta decay by emitting a positron
+Result is a new element that has the same atomic mass but is one unit lower in atomic number
+When a particle encounters its corresponding antiparticle, there is a complete annihilation of the mass of both particles, converting all mass into energy
+When a positron is emitted by radioactive decay, it will very quickly encounter an electron and annihilate
+Resulting energy of this positron-electron annihilation emerges as two high-energy gamma-ray photons flying off in exactly opposite directions
+Fluorine-18 in glucose so brain sends glucose to where its using energy and the machine measures where positron decay occurs
+O-15 same thing but in water which is in blood which goes more to where more neural signals being generated- PET detects gamma-ray photons resulting from positron decay
+Carbon-11 used to measure locations of dopamine or certain type of receptor by choosing a molecule that sticks to receptor (as agonist or antagonist)
+Device used to make these radioactive atoms is called cyclotron
+Needed to be made immediately for use; otherwise will decay
+First constructed by Ernest Lawrence at UC Berkeley
+Physicists at UC Berkeley discovered that cyclotrons could be used to produce chemical elements heavier than any ever before seen in nature → extended the periodic table into the transuranium region
+Cyclotron can accelerate charged particles to very high velocities by using oscillating electromagnetic fields to impart energy to the charged particles as they move round and round in a circular path
+Cyclotrons are used to produce various radioactive isotopes used in PET
+PET may be used to generate a map of neural activity in the brain under various conditions 
+Map constructed based on either glucose use or blood flow
+By using radioactive glucose, estimates can be made regarding the brain’s total energy consumption 
+Even doing nothing, you brain is still very active and using glucose at a robust rate
+Turn on lights, listen to music, move your arms, read out loud, and so forth → energy consumption in the brain increases by only a tiny amount
+The brain is working really hard all the time → what all the brain activity is for is currently largely unknown → termed “dark energy”
+ Last dynamic brain imaging method to be discovered here is functional magnetic resonance imaging or fMRI
+Technique uses that same MRI technology in the context of structural brain imaging but collects a series of magnetic resonance images over time and looking at something that changes as neural activity changes in the brain				
+flow of blood within the brain is regulated such that flow increases in regions of greater neural activity, delivering more glucose and oxygen to active cells 
+Hemoglobin is the oxygen-carrying protein in red blood cells
+Regions exhibiting increased neural activity have a greater influx of oxygenated hemoglobin and subsequent conversion to its deoxygenated form 
+Change in blood oxygenation can be measured by looking at the magnetic resonance signal of hydrogen atoms in H2O molecules that are in the vicinity of hemoglobin molecules in the blood
+This change is captured in a parameter called the BOLD signal, where BOLD stands for blood-oxygen-level dependence
+Measure increased flow of blood into regions of brain that are more neurally active
+Spatial resolution of fMRI is good; areas of increased neural activity can be localized down to within about 1 millimeter 
+Time resolution of fMRI at present is several seconds
+EEG has much faster time resolution but relatively poor spatial resolution
+Pg.385 → chart of time and spatial resolution of different brain imaging 
+
+Chapter 18: Connectivity, Language, and Meaning
+All mammals have layered cerebral cortex containing similar neural circuitry
+There is local interconnectivity within and between cortical layers, and there is long-range connectivity between widely separated regions of the cerebrum
+There is extensive connectivity going in both directions between the cerebral cortex and many subcortical structures: thalamus, amygdala, hypothalamus, and so one
+Gross anatomy → the two hemispheres of the human cerebral cortex appear roughly identical
+However, differences in function between the two sides of the brain (lateralization of function) are revealed by certain methods of study
+example) anosognosia pg.388
+Dance of the honeybees
+Angles from sun→ direction, number of waggles→ distance, sharpness of waggle → amount of food supply
+Classic function associated w/ hemispheric specialization is language – the capacity to communicate using signs, sounds, and gestures that have understood meanings
+Aphasia → refers to neurologically based impairment in language function
+An association between lesions in the left frontal lobe and the capacity to speak
+“Broca’s aphasia” → condition where a person has problems w/ production of language production often associated w/ lesions in left frontal premotor area of the brain, a region called Broca’s area
+Cannot organize mouth and tongue movements to produce language → cannot speak
+Cannot organize arm, hand, and finger movements to produce written language
+Wernike’s aphasia → problem w/ comprehension of spoken and written language
+Cannot understand  – cannot interpret the meaning of  – spoken and written language
+Associated w/ lesions in a region of the posterior left temporal lobe that has come to be called Wernicke’s area
+Generally sensory agnosias are associated with lesions in the cortical regions near where temporal/parietal/occipital lobes come together (area of brain that integrates and interprets variety of sensory information)
+Although patients w/ Wernicke’s aphasia can often speak and write, often their spoken and written language is garbled
+A presurgical test for determining the language-dominant cerebral hemisphere was developed in the 1940s by Juhn Wada (pg. 393)
+Injected small dose of sedative-hypnotic barbiturate drug into either right or left carotid and asked them to count 
+Wada test for lateralization of language has been administered to thousands of patients as a prelude to brain surgery
+Most people have left-hemisphere language dominance 
+For right-handed people, approximately 97% have left-hemisphere language dominance, & 3% have right-handed hemisphere language dominance
+For non-right-handed people, approximated 70% have left-hemisphere have left-hemisphere language dominance, & 15% have substantial language control by both hemispheres
+Wernicke’s area may be considered a secondary or higher-order auditory area, involved in analysis of sounds w/ language properties (pg. 395)
+Broca’s area is not restricted to speaking and writing but is also relevant for listening, reading, and understanding language 
+Listening to spoken language A1 active, linguistic quality Wernicke’s area active; words can be understood Broca’s area and frontal lobe active
+Neurons in Broca’s area are in fact premotor mirror neurons, active when observing  language, as well as when generating language
+Mirror neurons connect perception w/ action in a very direct way			
+Neural networks involved in moving the tongue and mouth, and the fingers and hands, allow us to learn associations between vocalizations, hand movements, and perceptions—hence, language
+Roger Sperry w/ patients who suffered from severe epilepsy, in which seizures propagated across the corpus callosum from one hemisphere to the other and in so doing disabled large parts of the brain
+A small number of patients underwent a surgical procedure in which their corpus callosum was severed, disconnecting direct neural communications between the two hemispheres of the cerebral cortex → operation called corpus callosotomy 
+Substantially reduced frequency and intensity of seizures 
+A person who has had this surgery is sometimes referred to as a split-brain patient bc brian is literally split in two at the level of the cerebral cortex
+Tactile perception by and movement of the left hand is under the control of the right hemisphere (pg. 398)
+Thus, visual information that enters from the left visual field will be shared by the brain circuitry controlling the left hand 
+In general, left hemisphere is superior to the right for language comprehension and expression, numeric reasoning and arithmetic calculation, and visual detail 
+Right hemisphere is generally superior for nonverbal aspects of communication, such as linguistic prosody, tone of voice, and body language, and for visual perspective (pg.400)
+Neural conditions sufficient for manifestation of conscious awareness (subjective experience) are often referred to as neural correlates of consciousness (NCC) 
+Possible contenders: manifestations of connectivity; high-frequency (gamma range) synchronous electrical oscillation; electrodynamic interconnection in brain must be a kind of complexity that maximizes the way information interacts
+(pg.401) for different reasoning behind it 
+In cerebral cortex, there are estimated to be twenty billion neurons and forty billion glial cells
+Densely packed region of neurons and glia, together w/ all the multitudinous axonal and dendritic fibers and astrocytic processes located inside the cerebral cortex, is called neuropil 
+Lots of chemical synapses, electrical synapses, local field potential (electric fields of cells and subcellular structures), ephaptic coupling (influence of local field potential on nearby neurons)
+May be described at the neurodynamic level as a uniquely unified system capable of undergoing something like “phase transitions” into states of global cooperativity
+Functions to access memories related to previous states which gives meaning
+All these cells and subcellular structures are replete with flowing charged particles and are generating electromagnetic fields - fields that influence the activity of nearby neurons
+Electric fields are called local field potentials and their influence on nearby neurons is known as ephaptic coupling
+High density of constant activity is responsible for most of the energy consumption of the brain – “dark energy” of cellular activity that is going all the time
+Neurodynamics is an endeavor to describe these processes involving large numbers of neurons and their interactions
+EEG is used to measure the collective electrodynamic activity of large numbers of neurons
+
+
+Chapter 19: Memory
+Pi is defined as the ratio for any circle, of the circumference to the diameter
+Deeply significant number in the mathematical language used to describe the cosmos
+Lu Chao recited from memory 67,890 digits of pi
+Most everything we do depends upon memory; for example remembering to eat when we feel hungry
+A famous book about extraordinary memory was The Mind of a Mnemonist, Luria describes his encounter with a man who could recall exact details of events, including conversations, years after they happened
+Found that the man could recall very long lists of numbers, letters, or words, w/o errors, years after being asked to learn them
+The man had profound synesthesia, a condition characterized by unusual blending of perceptions between different sensory modalities
+Sounds may evoke experience of colors; letters, words, and numbers may evoke experience of color, taste, smell, and texture
+For the man in the book, his synesthesia contributed to multisensory images that aided his recall of details 
+Memory can be deconstructed into two major components: working memory (WM; also called short-term memory) and long-term memory (LTM)
+Working memories tend to last from seconds to a few minutes ( although working memories can last indefinitely if you actively keep thinking about them)
+WM has a limited capacity: we can hold only so many items in WM at any time – for most people, generally fewer than then
+Memories that have been retained in some more permanent manner are stored in LTM
+Information get into LTM by a variety of pathways: rehearsing items in WM, repetition assist in encoding memories into LTM, reviewing information encountered 
+Things that have significant meaning or emotional salience are more easily stored in LTM
+LTM involves information storage and retrieval, storage is believed to involve some sort of structural change in the nervous system
+New memories become more stable and robust with time – a process called consolidation
+Retrieval involves some mechanism of access to the stored memory
+Forgetting can occur because of failure of either storage or retrieval
+Pathological memory problems are called amnesias, which come in two major categories: retrograde and anterograde
+Retrograde amnesia refers to an inability to recall events before the onset of the amnesia
+Memories of past experiences are either lost or unable to be retrieved from LTM
+More common is anterograde amnesia, an inability to recall events after the onset of the amnesia – such experiences are not retained in LTM
+Problem with learning new information rather than remembering what is already there
+Amnesia may be associated with various kinds of physical injury to the brain: cellular damage from stroke or seizure, brain tumor, infection, or traumatic injury sustained in an accident
+Electroconvulsive shock therapy (ECT) -  a psychiatric procedure in which seizures are induced in a patient, with the goal of reducing symptoms of depressed mood –  generally produces retrograde amnesia
+Dementia, a neurological condition characterized by global loss of cognitive abilities – not only memory but other capacities, such as attention, judgment, planning, problem solving, and motor coordination
+Memory problems in dementia generally begin with anterograde effects – inability to retain new information
+If the dementia is sufficiently severe, retrograde memory loss may eventually develop
+Severe dementia is a deteriorating condition that can result in serious disorganized behavior, including even the apparent loss of sense of self, the knowledge of who one is
+Two common forms of dementia are Vascular and Alzheimer’s
+vascular dementia is associated with the accumulation of cellular damage in the brain related to impaired blood circulation – generally due to atherosclerosis or repeated small strokes
+Alzheimer’s dementia is associated with the presence in the brain of what are called senile plaques (extracellular deposists of aggregates of a polypeptide called beta amyloid) and neurofibrillary tangles (aggregates of tau protein, a protein involved in the assembly and stabilization of microtubules)
+Alcohol, benzodiazepines, and other sedative-hypnotic drugs can produce temporary anterograde amnesia (drugs and memory)
+An “alcoholic blackout” is the name given to a state of intoxication in which the drinker is awake, moving around, engaging in conversation, and so on, but then has no memory of the events the next day
+Information never made it into LTM (heavy alcohol consumption over extended periods of time is associated with what may become permanent memory impairment – a dementia – resulting from alcohol-related neurological damage)
+One particular benzodiazepine, midazolam (Versed) is sometimes given in conjunction with medical procedures in which the patient is only partially anesthetized
+Anterograde amnesic properties of midazolam impair the person’s ability to remember any potentially uncomfortable parts of the procedure
+Nonbenzodiazepine hypnotics prescribed for insomnia, such as zolpidem (Ambien), zaleplon (Sonate), and eszopiclone (Lunesta), can also produce anterograde amnesia
+Other drugs known to be associated with memory impairment include cannabis, cholesterol-lowering drugs (statins), anti seizure medications, opioids, beta-blockers (prescribed for hypertension), older-generation antihistamines, anticholinergics, and tricyclic antidepressant medications
+Nootropic has been used to describe drugs claimed to have improving effects on aspects of cognition, including memory
+Chemicals that influence acetylcholine neurochemistry have received particular attention: phosphatidylcholine, the phospholipid precursors to the the synthesis of acetylcholine; and various inhibitors of acetylcholinesterase, the enzyme responsible for breaking down acetylcholine				
+In this latter category are several drugs used to reduce memory loss associated with Alzheimer’s and other dementias: donepezil (Aricept), tacrine (Cognex), rivastigmine (Exelon), and galantamine (Razadyne; also present in certain plants, such as the snowdrop [genus Galanthus], wild daffodil [Narcissus pseudonarcissus], and red spider lily [Lycoris radiata])
+Karl Lashley studied the ability of rats to navigate in mazes  - how to go from start to finish w/o making wrong turns and entering blind alleys - for which they rewarded with tasty treats
+Made lesions to various places in the rat’s cerebral cortex and measured their effects on performance in the maze
+Found that the number of errors made in navigating the maze was proportional to the size of the cortical lesion, but not its location in the cortex
+conclusion: memory is not localized to any particular region of the cerebrum
+Donald Hebb suggested that networks of many neurons, extending throughout the cerebral cortex, represent the information stored in memory
+Memory is distributed; memories often contain multiple kinds of sensory and emotional information
+Varied aspects of memory related to a particular place and set of associated experiences involve many different regions of the brain
+Patient H.M. (Henry Molaison)→ studied in attempts to elucidate brain mechanisms of memory
+This patient was studied for more than 50 years by psychologists and neurologists 
+At age 10, Henry began having seizures, his epilepsy was idiopathic
+At age 27, Henry underwent surgical removal of portions of his medial temporal lobe including the hippocampus, and the adjacent entorhinal cortex and amygdala from both hemispheres of his brain
+After surgery, epilepsy decreased but found to have a profound impairment of his memory
+Henry was unable to remember, for more than a few minutes, any new information acquired after his surgery -  he suffered from profound anterograde amnesia
+Can read and understand but then forget everything within seconds				
+The hippocampus, via the adjacent entorhinal cortex, is highly interconnected with all other regions of the cerebral cortex—with interconnectivity running in both directions. This elaborate neural communication appears to be central to organizing, storing, and consolidating memory, with the hippocampus serving as a hub of distributed activation that somehow helps to form the networks of cortical neural connections involved in representing memories in the brain. (The elaborate interconnectivity is also likely to be the reason that the medial temporal lobe is a frequent focus of seizures. Anomalous neural activity here may efficiently spread into large areas of the cortex.) 					
+careful investigation revealed that H.M. (as well as other postsurgical amnesia patients with hippocampal lesions) could learn certain things related to motor performance.  
+Declarative memories can be brought to mind in words or describable images, includes facts and other informational-type knowledge (semantic memory), as well as specific time-and-place events from one’s experience (episodic memory)
+Nondeclarative memory includes procedural memory, classical conditioning, and priming
+HM could accomplish this kind of leaning and remember what he had learned, although he had no awareness that he was learning and learning and remembering
+Procedural memory involves performing a sequence of actions, such as maze tracing or mirror drawing
+Classical conditioning is learning to associate together certain stimuli and responses; learning without awareness of what we are learning 
+example) blinking at a puff of air directed at our eye
+Priming -  when exposure to a stimulus influences one’s response to future exposures to this stimulus 
+Central to the effectiveness of advertising 	
+increasing the amount of neurotransmitter released from the presynaptic axon terminal, decreas- ing the efficacy of neurotransmitter reuptake by reducing the number of reuptake transporters, and increasing the number of postsynaptic neurotransmitter receptors—these are all ways by which the signal strength between two neurons is enhanced
+Detailed investigation of cellular and molecular changes that may underlie memory foundation have been carried out by Eric Kandel: Aplysia californica, the sea hare or sea slug
+Possesses a respiratory gill attached to a structure called a siphon
+If the siphon is touched, sensory neurons send signals that rapidly retract the gill into the mantle cavity, protecting the delicate gill from potential injury 					
+increased robustness has been linked to transient strengthening of the synaptic connection linking the siphon sensory neurons with the motor neurons mediating the retraction of the gill				
+sensory signal registering the aversive stimulus to the tail leads to the release of serotonin that activates serotonin receptors located on the axon terminals of sensory neurons from the siphon. 
+Serotonin activates G-protein-coupled serotonin receptors, initiating the following sequence of events: activated G- protein > activated adenylate cyclase > increased cAMP synthesis > activated cAMP-dependent protein kinase A (PKA) > phosphorylated potassium-leak channels located in the membrane of the axon terminal > closed potassium-leak channels > decreased outward K* current ~ prolonged depolarizing phase of action potential > voltage-gated Ca** channels opened longer > greater Ca** influx into axon terminal ~ increased release of glutamate neurotransmitter > increased excitation of postsynaptic motor neuron mediating gill retraction. 					
+if the aversive stimulus to the tail is repeated several times, then the increased robustness of gill withdrawal in response to touching the siphon may be maintained for many days—a kind of long-term memory				
+Not only in the brain, but throughout the entire body, neural connections are strengthened by repeated activation.  
+
+Chapter 20: Rhythms, Sleep, and Dreams
+For humans and other vertebrate animals, there are distinctive physiological properties of brain activity that characterize this period of reduced activity → sleep
+Sleep and wakefulness follow a circadian pattern, having a periodicity of approximately 24 hours
+Other examples of circadian rhythms are body temperature variations and synthesis of cortisol and other glucocorticoids by the adrenal gland 
+Melatonin is also synthesized in a circadian rhythm 
+It is made by many organisms: bacteria ,fungi, plants, and animals
+Appears to serve protective antioxidant functions
+Synthesized from serotonin in the pineal gland in vertebrate animals and plays an important role in sleep-wake cycle 
+Circadian rhythm - persists under conditions in which no environmental cues to time of day or night are available
+Periodic variation in melatonin synthesis (high at night, low during day), of core body temperature, and of sleeping and waking all continue in the absence of any information about when it is day and when it is night 
+Migratory activity in birds and other animals may be regulated by some kind of circannual biological clock			
+migratory animals must have an endogenous circannual biological clock— a physiological mechanism that tells them what time of the year it is —as well as an inborn sense of knowing which direction to migrate at which time of the year
+“Free-running” period of the circadian clock, in that it is decoupled from synchronization by environmental cues (like day and night) and so “runs free” dependent only on internal mechanisms for keeping time 			
+After decades of research, we now know the primary locus of the circadian clock (at least in vertebrates) to be a cluster of cells located in the hypothalamus of the diencephalon, at the top of the brainstem. The particular cell cluster is called the suprachiasmatic nucleus, or SCN 				
+SCN is bilaterally symmetric: there are two of them, located close together within the hypothalamus
+Human SCN contain 20,000 neurons, many of which exhibit a circadian periodicity of neural firing					
+molecular-genetic insight into the mechanism of the biological clock took a great leap forward in the 1970s with the discovery of a gene mutation in the fruit fly Drosophila that had substantial effects on the period of a fly’s circadian rhythm: a mutation in a gene called PER, for period. 
+PER gene is transcribed and translated into protein, after which the protein enters the cell nucleus and interacts with transcription factors to suppress transcription of the PER gene
+Resulting in reduced production of the associated PER protein then leads to reduced suppression of PER gene transcription, and the cycle begins anew
+Process of feedback inhibition of the transcription of the PER gene by its own gene product produces a rhythm of PER gene expression that then propagates out to other aspects of cell physiology
+SCN is also the place where the overall circadian period of the biological clock is brought into synchrony with the environmental light-dark cycle of day and night 									
+The retina, via the optic nerve, makes most of its connections with the thalamic lateral geniculate nucleus and thence the visual cortex (V1) of the occipital lobe, and with the superior colliculus in the mid- brain  
+Of the million or so axons in each optic nerve, close to 90 percent go to the lateral geniculate nucleus, and close to 10 percent go to the midbrain
+However, about 1 percent of the optic nerve axons, perhaps ten thousand or so nerve fibers from each eye, emerge from a distinct population of retinal ganglion cells and connect with the SCN
+These particular ganglion cells contain their own (intrinsic) rhodopsin-like photoreceptor protein, called melanopsin
+The axon tract connecting these ganglion cells with the SCN is called the retinal-hypothalamic pathway, which communicates information about levels of light to the SCN in order to synchronize the endogenous circadian rhythm with environmental time
+Jet lag - a lack of synchrony between our internal clock and the new time zone
+If the internal clock is telling the body that it is time to sleep and the local environment is dictating that we be awake and functioning, the resulting jet lag can mean fatigue, headache, grogginess, fuzzy memory, and other symptoms of impaired performance 
+Studies of sleep are typically measured with electroencephalography (EEG), activity of muscles throughout the body using electrooculography
+In mammals, including humans, sleep is broadly divisible into two signature stages, that in which rapid eye movement take place (REM) and that in which such eye movements tend not to occur (non-REM or NREM)
+NREM sleep can be divided into stages 1, 2, 3, and 4 based off different kind of EEG activity
+Stages 3 and 4 are recognized by EEG patterns that contain substantial low-frequency oscillation, less than 4 hertz (delta waves), and these stages are sometimes referred to as slow-wave sleep
+During REM sleep, EEG activity is dominated by higher frequencies and looks more like the EEG of an awake person
+Sleep progression:
+After sleep onset, we go through a progression of the four NREM stages, after this, there is movement back up the stages, then the sleeper enters a period of REM sleep. Then EEG slows down again, the sleeper passes back through the various NREM stages
+Similar patterns are repeated throughout the night, with the periods of REM sleep becoming longer and more frequent as the night progresses
+Newborn infants sleep perhaps sixteen hours a day, with half of that sleep time spent in REM stage
+During REM sleep, clusters of cells in the pons and midbrain become active and spread neural excitation into the cerebral cortex
+Neurotransmitter acetylcholine is central to this excitation,and many of these excitatory REM-active neurons innervating the cortex are cholinergic
+Result is widespread activation of the cerebral cortex, producing a state of neural activity more akin to wakefulness than to other stages of sleep
+REM-active neurons send signals to the eye muscle, triggering eye movements
+There is inhibition of motor output from the cortex via the spinal cord 
+A notable aspect of REM sleep is its association with vivid dreaming
+90% of the time people awaken from REM stage will say they are dreaming
+If someone is awakened during NREM stage, they only report dreaming 5% of the time, not as vivid as REM-stage dreams
+Lucid dreaming occurs when one becomes aware of dreaming while still asleep
+Practice can lead to an increased likelihood of experiencing lucid dreams
+Practice means first working on dream recall generally and then cultivating the intention to become aware of one’s dreams while dreaming
+Some spiritual traditions that place high value on the practice of meditation have dream yoga practices with the goal of becoming regularly lucid during dream and even non dream sleep
+Sleep disorders:
+Insomnia: difficulty w/ sleep, often w/ falling asleep (not exactly a disorder but rather a symptom that could be associated w/ any number of different things)
+Stress and emotional turmoil are commonly related to insomnia
+“Sleep hygiene” maintaining a regular wak-sleep pattern, relaxing as much as possible before sleep
+Sleep apnea - a condition where the sleeper periodically stops breathing or has abnormally shallow breathing
+Typically caused by some kind of constriction of the airway, resulting in blocked airflow into the lungs
+When this happens, the sleeper wakes up from lack of air, breathing adjusts, and sleep returns
+Sleep apnea affects upward of 5% of adults
+Narcolepsy primary symptom is excessive daytime sleepiness, even after seemingly having a full night of sleep
+Night time sleep cycling between NREM and REM stages is generally not normal in narcoleptics
+Genetic studies of narcolepsy in humans and other animals have found associations with abnormalities related to orexin, a neuropeptide involved in maintaining wakefulness
+New meds that are antagonists at orexin receptors are currently entering the pharmaceutical industry as treatments for insomnia
+REM behavior disorder is an impairment of motor inhibition in REM-stage sleep, resulting in sleepers acting out their dreams 
+With sleep paralysis, one partially awakens while in REM-stage sleep, the person becomes aware but is unable to move the body because the neural activity of REM continues to inhibit motor output from the brain 
+Sleepwalking or somnambulism occurs when a person, while still asleep, rises from bed and walks about, sometimes engaging in such activities as bathing, housecleaning, eating, and more
+Tends to happen in deep stages of slow-wave sleep
+the most widely occurring sleep-related problem in the modern world is chronic sleep deprivation 
+Today w/ electric lighting and all sorts of entertaining activities that last late into the night, we tend to go to sleep later than we otherwise would yet still usually awaken early the next day
+
+
+
+Getting insufficient sleep definitely impairs cognitive and motor performance
+Sleep plays a critical role in learning and memory
+Sleep prepares the brain to optimally encode new information for storage in long-term memory, and sleep deprivation dramatically impairs this process
+After the initial encoding of a memory in the neural circuitry of the cortex, an extended period of times is necessary to lock the memory more securely in place –  the process of consolidation
+Studies of both rats and humans have shown that configurations of brain neurons active during the learning of a task become active again during sleep
+It is part of a process of strengthening the synaptic connections in these networks, thereby solidifying the associated memory
+The prominence of REM sleep in newborns and during the first months of life suggests that it has an important role in neural development, because connections in the brain are being robustly formed and modified during this period
+Chapter 21: Emotion
+Thoughts are considered to have a linguistic aspect, representable as either words in a kind of subjective inner dialogue or images potentially describable in words
+Perceptions have a direct sensory quality – such as color or shape, musical tones, aromas and taste
+Feelings  in contrast, have a kind of nonlinguistic and intuitive quality to them 
+Considered to be the mental experience component of emotions -  such as joy, anger, fear, surprise, sadness, and disgust
+Emotions have palpable somatic qualities –  they are experienced in the entire body, not just in the mind – associated with outward signs – facial expressions, body posture, laughter, tears, and changes in heart rate, blood pressure, breathing, and skin temperature
+Emotions are spontaneous, arise quickly and subside after a brief time, contribute to guiding how we are reacting to something, help us get along and form relationships with others – foundation of cooperative social systems 
+Moods are prolonged, emotions experienced repeatedly over time may become, or contribute to moods
+Emotions and moods are often characterized as being either positive or negative
+Positive refers to states that have an associated pleasant, enjoyable, or rewarding subjective experience, while negative refers to states that are associated with upset or distress
+Darwin argued that emotions are not unique to humans but evolved as adaptive behaviors that we share with other animals 
+The expression of emotion, and the interpretation of emotional expression, would be universal among humans, across people form many different cultures
+Constructivist view marginalized the role of biological universals and posited that even the most basic aspects of emotional expression depend largely on cultural factors
+Paul Ekman compared the interpretation of facial expressions across different cultures → found that facial expressions associated with several basic emotions were universal across many human societies
+Facial expressions  are one aspect of body signatures associated with emotions, and they appear to function primarily to communicate emotions to others 
+Playing an important role in the autonomic neural component of emotion is the vagus nerve, consisting of neural connections between the brain and a large region of the core of the body
+Included in this circuitry is the parasympathetic innervation of the body’s core
+More than 50% of the axons in the vagus nerve are afferent fibers
+Activity of the vagus nerve (as captured by a concept called vagal tone) has been associated with a more relaxed emotional style (equanimity), resilience when encountering negative emotions, more frequent experience of positive emotions, greater prosocial expression, and improvements in measures of physical health
+Amygdala - a group of nuclei at the base of the temporal lobes and heavily interconnected with sensory areas of the cerebral cortex, as well as with numerous groups of neurons in the brainstem – is involved in the perception of emotional expressions
+Also involved in signaling the hypothalamus to initiate a cascade of events that forms part of the body’s response to stressful events
+Hypothalamus produces neuropeptides that regulate the release of systemic hormones from the adjacent pituitary gland
+One such hypothalamic-pituitary neural connection regulates release of adrenocorticotropic hormone from the adrenal gland into the blood circulation
+This hormone triggers the adrenal gland to release cortisol, a steroid hormone that increases the availability of glucose to cells, as well as having numerous other complex effects throughout the body
+Cortisol is part of our body’s response to perceived threat and other kinds of stress
+Other neurons in the hypothalamus produce the neuropeptides oxytocin and vasopressin
+These two molecules consists of a polypeptide chain of nine amino acids; also are the same except for two amino acids 		
+Oxytocin: Cys-Tyr-Ile-Gln-Asn-Cys-Pro-Leu-Gly				
+Vasopressin:Cys-Tyr-Phe-Gln-Asn-Cys-Pro-Arg-Gly 
+Oxytocin and vasopressin produced by neurons in the hypothalamus are released as hormones via the adjacent pituitary gland into the blood circulation
+Oxytocin acts on the female uterus during childbirth to induce contractions and facilitate birth 
+Also stimulates the production and release of milk from the mammary glands
+Vasopressin acts on the kidneys to slow the transfer of water from the blood to the urine and acts systemically to constrict blood vessels 
+Additionally, axons from hypothalamic neurons release oxytocin and vasopressin into the brainstem, hippocampus, amygdala, nucleus accumbens, and other specific regions in the interior of the brain 
+Play roles in a variety of prosocial actions
+“Feeling good” is often associated, especially in the popular media, with the brain’s famous “reward pathways” 
+James Olds discovered regions of the brain that, when electrically stimulated induced rats to execute behaviors that would garner them more such electrical stimulation
+Did an experiment with implanted electrodes that would electrically stimulates these neurons when rats pressed a lever
+The best-known reward circuit involves dopaminergic neurons in the ventral tegmental area projecting to the nucleus accumbens and the medial prefrontal cortex
+Neurotransmitters oxytocin and dopamine have implicated in specific roles in regulating emotions
+Simple explanations, assigning dominant regulatory roles to single molecular entities → oxytocin, the cuddle hormone love, neuropeptide, compassion molecule, dopamine, the pleasure neurotransmitter, and serotonin, the molecular mediator of positive mood
+Serotonin-mood connection derives in large part from the neurochemistry of drugs used to treat what are called mood disorders
+If one becomes stuck for a prolonged period of time (weeks, months, or more) in a mood state that significantly interferes with one’s ability to function and fluoride in life, one is said to have a mood disorders
+Depression is a prolonged and dysfunctional dysphoric mood, a malignant melancholia
+Opposite condition is mania, a prolonged and dysfunctional euphoric mood - dysfunctional in the sense that the euphoria is accompanied by poor judgment and grandiosity that may lead to behaviors that are damaging to oneself and to others
+Manic-depressive disorder (bipolar disorder) is characterized by periods of both mania and depression
+The first two categories of pharmaceuticals antidepressants were the monoamine oxidase inhibitors (MAOIs) and the tricyclic antidepressants (TCAs)
+Both increase the presence of neurotransmitter norepinephrine and serotonin at synapses – MAOI inhibits the enzyme (monoamine oxidase) that normally inactivates these neurotransmitters by oxidizing them  and TCAs by blocking or slowing the reuptake of norepinephrine and serotonin back into the axons of the neurons that released
+Amine hypothesis of depression → idea that something to do with increasing the efficacy of norepinephrine and/or serotonin was therapeutically important for treating the symptoms of depression and that th mood disorder may even biochemically precipitated by some kind of deficit of these neurotransmitters
+1988, fluoxetine (Prozac) hit the market, the first of a new pharmacologic class of antidepressant drugs: the selective serotonin reuptake inhibitors (SSRIs)
+There was a dopamine hypothesis of psychosis: psychotic symptoms were somehow related to overactivity in dopaminergic neurotransmission, and antipsychotic medications reduce the symptoms of psychosis by blocking some of that overactivity 
+Many antipsychotics are dopamine receptor antagonists, but the new drugs that emerged after SSRIs also had antagonists at certain serotonin receptors and were thus termed serotonin - dopamine antagonists
+Ongoing research is increasingly demonstrating positive and prosocial emotions to be associated with measures of human flourishing and mental and physical health
+“Mindfulness meditation” - training and practice in bringing one’s awareness repeatedly back to a focus of attention, such as the breath – has been associated with manifestations of prosocial emotion and emotional balance, decreases in measures of depression and anxiety, decreased perceived stress, and enhanced functioning of the immune system 
+Other aspects of meditative training have been associated w/ increases in measures of emotional well-being and even in improvement in measures of cellular flourishing
+
+Chapter 22: Mind, Consciousness, and Reality
+Intelligence include the ability to acquire and retain knowledge, learn, grasp truths and patterns, reason, and apply all this toward solving problems 
+The descriptive successes of biology in general and neuroscience in particular are part of an explanatory picture of our world given us by the framework of contemporary physical science. Within this framework, living organisms are understood as configurations of atoms and molecules, organized so as to use energy in the maintenance of stability, information storage, and replication. This is what is called reductionism
+Reductionism → biology explained in terms of what is considered to be the basic science of chemistry and chemistry is understood in terms of the fundamental rules of matter and energy as described by physics, and physics is grounded in elegant mathematical structures and equations 
+Particle is said to exist in many states and places simultaneously, and its behavior is governed by a quantum wave function → the particle is said to  exist as a superposition of multiple alternative possibilities
+The transition from a superposition of potentialities  to a discrete values is called a “reduction” or “collapse” of the wave function
+Defines the connection between the microscopic quantum world of potentialities and the macroscopic classical world of our experience
+Exactly how this collapse or reduction comes about is called the “measurement problem”  in quantum physics 
+How did life first originate on Earth? → One guess is that small RNA molecules somehow formed in the primordial soup and that such molecules were capable of replicating and catalyzing chemical reactions. This could give rise over time to the foundation of stabilized, energy-using, replicating systems
+But, there are many plausible scenarios for the origin of life being constructed so we don't know
+SETI – Search for extraterrestrial Intelligence – program has been searching for any signs of radio signal in the cosmic noise 
+Our current framework for science is currently conducted in the metaphysical framework
+Metaphysics describes the larger context within which we interpret scientific analyses, the stage or landscape upon which our inquiry is carried out
+Metaphysical framework of contemporary science is called physical materialism or physicalism
+There is a fundamental difference of category between the physical and the mental,  – mentality is irreducibly subjective and thus, it would seem, a very different phenomenon from physical stuff
+How subjectivity is related to the physical workings of the brain and body is sometimes called the hard problem of consciousness research. It is also referred to as the explanatory gap between the physical and the subjective 
+Dualism → two separate domains  - matter(physical) and mind(mental)
+Mentalism → what is really real is the menta domain and somehow our experience of what we call physical is derived from that 
+Panpsychism → mind and consciousness are everywhere, fundamental to the structure of reality
+The next really big scientific revolution is likely to encompass both mind science and physical science, interconnecting the two domains in new and unexpected ways
+Lectures 11: Psychiatric Pharmacology
+10.4% of people have experienced depression in last year, 20.6% in their life
+17% of US adults take prescribed psychiatric medications; 84% of these folks are prescribed for long term
+More females than males take psychiatric-medication
+Symptoms of depression are categorized into feelings, thoughts, actions, somatic
+Risk factors of depression
+Genetic
+Brain circuitry changes due to developmental experiences and habitual behaviors
+Availability of alcohol/drugs
+Poor nutrition, poor physical activity, obesity, heart disease, diabetes
+Positive correlation between income inequality and mental illness
+Amphetamine and related drugs were first used “antidepressants”
+Stimulant that increased heart rate, blood pressure, made people reliant
+Monoamine oxidase inhibitors (MAOIs) not a stimulant
+Interfere with enzyme that normally breaks down dopamine, serotonin
+Tricyclic antidepressants (TCAs) block reuptake of serotonin, norepinephrine → more activity for neurotransmitters
+Selective serotonin reuptake inhibitors (SSRIs)
+Block reuptake of serotonin
+Other “new generation antidepressants don’t clearly do one thing, but generally impact serotonin and monoamine
+Monoamine Hypothesis of Depression: Depressed mood is related to hypofunction (underactivity) in certain monoamine neurotransmitter systems in the brain, especially serotonin
+Solution is to use antidepressants to increase synaptic presence of monoamine neurotransmitters
+THERE IS NO EVIDENCE THAT DEPRESSION IS ANY FORM ON CHEMICAL IMBALANCE LIKE IT IS ADVERTISED AS
+Bible of psychosis → Diagnostic and Statistical Manual of Mental Disorders and ICD-10
+Schizophrenia is a type of psychosis that happens chronically (without drugs)
+Asain rauwolfia serpentina “snakeroot”
+Depletes dopamine, norepinephrine, serotonin
+Dopamine Hypothesis of Psychosis: Psychosis is related to excess activity in particular dopamine pathways in the brain
+Antipsychotic drugs are dopamine receptor antagonists
+Reserpine reduces dopamine release/ cocaine and amphetamine activate dopamine pathways and produce psychosis
+
+Lectures 12: Mind-Body Medicine
+FDA approval process of new drugs can take years and years and years
+Drug Developed → Animals Tested → IND Application
+Rodent testing with tail suspension test and forced swim test
+Perhaps immobility is a healthy and adaptive reaction to hopeless situation
+IND application requires 3 human clinical trials phases
+Phase 1: Administer drugs to humans to check function and find appropriate dosage; check safety in healthy humans
+Phase 2: Efficacy or small sample; recruit small number of individuals and guess reasonable dose and administer for period of weeks; if they get much better, go to phase 3; control group not required but often added
+Phase 3: Efficacy, safety (larger sample), placebo control, double-blind, must demonstrate the effect of putative “real” medicine
+Power of placebo effect for antidepressants
+Placebo: an inert substance or condition/ a treatment believed not to have any specific effect on what is being treated 
+To be considered for approval, new drug must demonstrate statistical significance over and above placebo effect in two independent studies
+Different rating systems used include
+Montgomery-Asberg Depression Rating Scale (0-6 for each q) (10 qs)
+Beck Depression Inventory (21 items self-report) (score is 0-63)
+Hamilton rating Scale for Depression (similar higher number means more depressed)
+Cognitive Therapy and Pharmacotherapy shown to be equally effective
+Dependence reaction to antidepressants (DON’T STOP TAKING ANTIDEPRESSANTS)
+Why people need to taper off and may need 6+ months to quit
+Bilateral internal mammary artery ligation 
+200 patients, blinded placebo control and no significant difference in exercise stamina or other outcome measured
+
+Other Notes from Discussion Worksheets:
+Endorphin is a portmantuau of the words endogenous and morphine. Falls under the neuropeptide category of neurotransmitter.
+In acetylcholinergic neurons, the enzyme choline acetyltransferase catalyzes the synthesis of ACh from acetyl coenzyme A and choline. ACh gets cleaved by acetylcholinesterase back into these constituents.
+Prevalence describes the percentage of a population affected with a condition.
+Chlorpromazine was originally developed as a pre-surgical antihistamine, and was discovered to have calmness-inducing properties
+The dopamine hypothesis of psychosis proposes that psychosis is related to excess activity in particular dopamine pathways in the brain. Evidence possibly supporting this parsimonious hypothesis include the fact that the mechanisms of reserpine appears to be through reducing dopamine release, and that mainstream antipsychotic drugs are dopamine receptor antagonists.
+Monamine hypothesis of depression proposes that depressed mood is due to a “chemical imbalance” of monoamine such as dopamine, serotonin, norepinephrine, and increasing their levels rectifies this issue.
+A holotropic effect is a movement towards wholeness
+MAOIs= monoamine oxidase inhibitors = inhibit monoamine oxidase enzyme, which is an enzyme that degrades dopamine, norepinephrine, and serotonin. This leads to an increase in these monoamine neurotransmitters.
+TCAs= tricyclic antidepressants = block reuptake transporters for norepinephrine and/or serotonin. Leads to an increase in these monoamine neurotransmitters
+SSRIS= selective serotonin reuptake inbitiors= block reuptake transporters for serotonin only. Leads to an increase in serotonin. Each of these antidepressants help to increase certain monoamine neurotransmitters, which address address the monoamine hypothesis of depression which posits that depression is the result of hypoactivity (underactivity) of certain monoamine neurotransmitters
+Preclinical testing = testing not done in humans and instead in animals
+ Sensation- the collection of info from the environment
+Perception- the analysis and interpretation of sensation by the nervous system
+TRUE Most receptor proteins animals are G-protein-coupled receptors (GPCRs)
+Cephalopods have retinas that are inverted
+Blind sight is visual sensory detection without conscious perception of the visual cue. ~90% of vision passes from the retina to the LGN to V1 however ~10% goes from retina to the superior colliculus in midbrain
+Different frequencies of sound vibration captured through the funnel of the pinna and down the ear canal– when transferred into the cochlea via the eardrum, ossicles, and eardrum (oval window) – set different regions of the basiliar membrane into vibration. Basiliar membrane performs fourier analysis and through depolarization of different regional hair cells represents the result spatially along the length of the membrane. This signal is conducted to the brain through the cochlear nerve.
+Speed of sound in air is 1100 feet per second. For a sound vibration having a frequency of 250 cycles per second, what is the wavelength. 4.4 ft
+Loss of sensory receptor organs can lead to structural neuroplasticity and strengthening of synaptic coupling to other nearby cortical regions
+fMRI measures functional activity from increased blood flow to regions of increased brain activity, while standard structural MRI is for anatomy and pathology
+Hydrogen! Which is heavily featured in H20 for fmri
+Lesions to the left frontal lobe lead to Bronca’s aphasia which involve impairments in the production of spoken and written language. Lesions to the left posterior temporal lobe lead to Wenicke’s aphasia, which involve impairments in the comprehension of spoken and written language
+
+Lecture 13: Development and Plasticity
+Plasticity: changes in synaptic strength are occurring all the time
+Presynaptic neuron: axon terminal
+Postsynaptic neuron: dendritic spine, dendritic, cell body
+Human genome: 23 chromosomes (haploid), 3 billion base pairs, 21,000 distinct genes coding for proteins
+<2 % of the human genome codes for functional protein but most of the remaining 98% is transcribed into RNA
+Cell differentiation is governed by regulation of gene transcription via transcription factor proteins and regulatory RNA
+Differentiation of brain cells: Stem cell → nervous-system progenitor cell → various types of neuron and glial cells
+Nervous system development → neurogenesis and gliogenesis occur together w/ axon and dendrite branching, cell migration, and synaptogenesis 
+Microfilament (7 nm) is a long polymer of actin proteins, monomer = actin protein
+Microtubule (25 nm)  is a long polymer of tubulin proteins, monomers = tubulin proteins
+Roger Sperry → cut and regrow optic nerve and rotate eyeball
+Sperry’s chemoaffinity hypothesis → neurons use specific chemical signals to guide their wiring (migration and synaptogenesis) during development
+Neurotrophins are nerve growth factors
+Proteins produced by the body and important for cell growth and survival
+Rita Levi-Montalcini and Stanley Cohen discovers the first neurotrophin, NGF
+NGF = Nerve growth factor dimer of two 118 AA proteins
+Chemical guidance in axon growth → growth initiated by neurotrophin → contact factors and soluble factors
+Ephrin - Ephrin receptor interaction can mediate repulsion or attraction
+Pruning of synapses
+Activity-dependent survival → stabilization through use of elimination through disuse
+Branching of axons and dendrites growth of dendritic spines
+At birth, human brain has 28% of adult volume
+Myelination in cortex takes many years
+
+Lecture 14: Sensory Perception
+Sensation: microorganisms can detect and respond to physical stimuli in their environment
+example) E.coli, chemotaxis, E.coli swimming behavior: random walk of “runs” and “tumbles”
+Bacteria and sugar crystal → tumble less in vicinity of sugar and congregate around it
+Chemoreceptor proteins detect goodies (attractants)
+Bias random swim toward attractants by tumbling less
+Many examples of behavioral responses to light among bacteria, protists, fungi, plants, and animals → phototaxis and phototropism
+Plant behavior indicating sensation → respond to environmental signals: light, chemical, presence of other plants …; complex communication networks w/ other plants via molecular signaling 
+Perception = experience (mind)
+Our experience of the world depends upon: what is “out there” (objectively) physics of sensory receptors processing by brain
+Naive realism: common sense theory of the perception what we perceive = what is
+Karl von Frisch: honeybee vision and other aspects of animal behavior
+Honeyguides
+Rattlesnakes and other pit vipers can image infrared radiation
+Pit vipers use triangulation to identify prey
+Night-vision devices: image intensifier, infrared/thermal
+Skylight polarization pattern depends upon location of the sun
+Honeybees, ants, beetles, other insects, and birds can detect polarization and use it to navigate
+Range of human sensitivity for sound perception: ~20 to ~20,000 hertz
+Very low frequency: < 10 Hz
+Elephants, pigeons, dolphins, whales, etc
+Very high frequency: > 50,000 Hz
+Bats, dolphins, whales, moths, etc
+echolocation/ biosonar
+Sonar = sound navigation and ranging
+Cetaceans: dolphins, killer whales
+Shark using passive electroreception to locate food
+
+Lecture 20 Brain Imaging 
+William Rontgen → discovered x-rays
+Nuclear spin → in a magnetic field, spin can align in two different energy states
+EEG – method for recording some kind of summed electrical activity of the brain
+Seizure → run-away neural activity in brain
+Every element has isotopes, one or more of which are unstable (radioactive)
+Decay by positron (anti-electron) emission: fluorine - 18, oxygen -15, carbon -11
+Positron (anti-electron) is the antimatter particle corresponding to the electron
+Matter-antimatter collisions results in complete conversion of mass to energy
+Positron-electron collision produces two gamma-ray photons
+PET isotopes: fluorine - 18, half life 2 hours applications: fluorinated glucose → glucose consumption
+Lecture 21 Cortical Connectivity
+Language: means of communication through signs, sounds and gestures
+Human brain 100 billion neurons
+Broca’s aphasia: production aphasia for spoken and written language
+apraxia
+Left frontal lobe lesion
+Wernicke’s aphasia: comprehension aphasia for spoken and written language
+agnosia
+Left posterior temporal/ parietal lobe lesion
+Cerebral lateralization of language
+Wada test
+Barbiturate sedative hypnotic → injected into right or left carotid artery
+Mirror-neuron quality of Broca’s
+Sounds → auditory cortex A1,
+Sounds that are clearly language → A1, Weirnicke’s
+Language w/ meaning → A1, Wernicke’s, Broca’s
+Language control is distributed over cortex
+Corpus callosum ~200 million axons
+Corpus commissurotomy = split brain, surgical procedure for severe epilepsy
+Left hemisphere → sequential analytic processing
+Right hemisphere → holistic parallel processing
+The bringing together (integrating) of perception and action takes place in the cerebral cortex (cortical neuropil)
+Cortical neuropil is conceived of as a distinct state of matter w. Unique biophysical properties
+GSI says to look at 
+anatomy of the eye
+
+
+different receptor cells
+
+
+psychiatric disorders few vocab from there
+
+
+
+different type of cells
+placebo effect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
