@@ -1,0 +1,159 @@
+Notes
+Systems
+A set is dense in some system if one can always find a number between any other two numbers
+sup/inf is the lowest/highest possible upper/lower bound on all elements
+bounded: exists A so that all a, |a| < A
+complete field := every subset has a LUB and GLB
+monotone: only one direction, cauchy: distance between values decreases
+bounded + monotone -> converges
+Bolzano–Weierstrass: every bounded sequence has a convergent subsequence
+lim sup(/inf): lim_{n -> \infty} sup(/inf)(a_{m > n})
+
+metric space: some measure d(x,y) => R, with
+1) (positivity) positive
+2) self distance 0
+3) (symmetric) can reverse
+4) triangle inequality
+
+topology
+cover = family of open sets that contains all points, sets can be infinite
+open := ball of points around every point
+proper subset := nonidentical subset
+closure := include limit of every point, complement is open; inverse images are closed, smallest closed subset containing
+interior := union of all empty sets
+compact := open cover has a finite subcover; for every sequence, a subsequence converges to a a point in A; closed and bounded by Heine–Borel
+convergent sequence => all subsequences also converge to 0, cauchy
+notation: \delta = boundary, - is closure, o is interior
+
+trick for mutliple limits: use half epsilon instead
+
+series
+partial sums of a sequence; converges absolutely if sum |a_n| converges
+Cauchy criterion: for each epsilon, exists number N so that for m, n > N, all |s_n - s_m| < epsilon
+tools: squeeze theorem, comparison test, ratio test (|a_{n+1}/a_n| < 1), root test (nth root < 1), integral test (compare with rectangles)
+
+continuous functions
+continuous := for every sequence x in domain converging x_0, f(x) converges to f(x_0); 
+
+epsilon-delta definition; to prove, show that within some radius of x_0, some relationship holds
+continuity holds under absolute, scale, addition, multiplication, composition, max, min
+continuous function on a closed interval is bounded and assumes max and min
+IVT: for interval [a, b], exists some x in [a, b] such that f(x) = y for any y in [f(a), f(b)]
+continuous function of an interval is also an interval; if strictly increasing, then f-1 is also a function; if f is one-to-one, it is either strict increasing or decreasing
+uniform continuity is stricter, requires epsilon delta with every f(x) - f(x_0); continuous everywhere; continuous on closed interval implies uniform continuity; properties:
+if s is cauchy, f(s) is cauchy
+If uniformly continuous on (a, b), guess endpoints and make continuous on [a, b]
+If f is continuous on some interval and the derivative is bounded, then f uni. Cont.
+Proofs: pick random x, y and assume |x - y| < delta, reduce |f(x) - f(y)| to some function of delta
+To determine radius of convergence, do root/ratio test
+
+
+limits
+lim_{x->aS} f(x) = L if for every sequence in S with limit a f(a_n) converges to L
+two sided, left sided, right sided restrict S to varying intervals
+limits can be added, multiplied, divided
+Lipschitz := |f(x) - f(y)| <= M|x - y|
+L’Hospital: can differentaitae
+Trick - do a log transform before taking the limit
+
+
+Metric continuity
+
+Continuity in a metric space: epsilon delta under metric
+Continuous mapping R->Rk is a path, requires each f continuous
+For metric spaces (S, d) and (S*, d*), if E compact subset of S, then f(E) is compact subset of S* and f continuous
+f(x) postive
+Subset D on S is dense in S if every nonempty open set U intersects D
+a subset E of S is nowhere dense in S if its closure E− has empty interior
+E is nowhere dense in S if and only if S \ E− is dense in S
+Compact subset E on S => f bounded on E and f assumes maximum and minimum
+Baire Category Theorem: complete metric space (S, d) implies:
+Union of sequence of dense open subsets is also dense open
+If union contains non empty open set, so does one of the closed subsets
+Union of sequence of nowhere dense subsets has dense complement
+S is not a union of nowhere dense subsets
+Second category: more than union of nowhere dense subsets
+A closed set E in a metric space is said to be perfect if every point x in E is the limit of a sequence of points in E \ {x}
+Trick for mappers - use trig functions
+set E is disconnected if there are nonoverlapping nonempty open subsets; connectedness is preserved over continuous functions on metric spaces
+Trick - can pick literally any open sets to split them
+Path-connected if a continuous functions connects every two points => connected
+Trick for uniform continuous - set alpha  > M/d and epsilon = 1, walk across range [x, y]
+For connection proofs, show what must be contained in open subsets U_1 U_2 and point out that they are connected
+
+
+Differentiation
+F is differentiable at a if lim x-> a [f(x) - f(a)]/(x -a) exists and is finite.
+Differentiability => continuous
+Product rule:(fg)' = fg' + f'g
+Chain rule: (g◦f) (a) = g’(f(a)) · f’(a)
+
+Thm: if f defined on open interval with max value x_0, then f’(x_0) = 0 if differentiable
+Rolle’s Thm: If f(a) = f(b) and f differentiable on (a, b) and continuous [a, b], then at least one c f’(c) = 0
+MVT: for any f(a), f(b), at least one c has f’(c) = slope
+Darboux’stheorem / IVT for derivatives: same idea if derivatives continuous
+Derivative of inverse: for one-t-one on I, f^-1'(y_0) = 1/f'(x_0)
+
+Integration
+
+f is bounded on a closed interval with subset S
+M = sup(f on S) m = inf(f on S)
+Partition of [a, b] is an ordered subset with (a=t_0, t_1… t_n=b)
+Upper darboux sum sums U(f, P) M on each t_i for sup on interval with partition
+Upper darboux integral = inf(U(f, P) : P  is a partition)
+F is integrable on [a, b] if L = U; this is Riemann integral
+If P in Q, then L(f, P) <= L(f, Q) <= U(f, Q) <= U(F, P); U(f) <= L(f)
+Alternatively, U(f) - L(f) < epsilon
+Mesh of partition is largest subinterval length
+Delta-epsilon on mesh and error
+Riemann sums dont use end
+Trick - use partition mesh bounds for solve d-e proofs
+
+Every monotonic function on [a, b] integrable
+Continuous function integrable
+Its linear
+
+If f(x) <= g(x) on [a, b] and both integrable, int <=
+F can be split –
+
+|int f(x)| < int|f|
+
+Dominance conversion
+Suppose sequence of functions that are monotonic, then lim int f = int lim f
+
+Idea is to define factors that represent the bounds of integration
+int_a^b g’ = g(a) - (b)
+
+Integration by parts
+Change of variable
+
+Cauchy principal value
+
+F-integratbility
+Define increasing funtion f
+ F-integrable on [a, b], provided LF (f) = UF (f);
+
+Differentiability proofs - set up with either a to x or h to 0
+
+Improper integrals
+Combine with lhospitals to prove hard integrals, combine with FTC
+To show that integral exists, show bounded above, or continuous positive decreasing
+ Sequence of functions
+converges uniformly: sequence of functions converges, uniformly Cauchy if all pairs
+Trick - set arbitrary N after which all are within f(x) limiting function
+Convergence at R implies continuoous
+
+Taylors
+f(x) =  sumk=0n-1f(k)(c) / k! (x-c)k
+Let f be defined on (a, b) where a<c<b; here we allow a = −∞ or b = ∞. Suppose the nth derivative f(n) exists on (a, b). Then for each x = c in (a, b) there is some y between c and x such that
+Rn(x) = f(y)(y)/n!*(x − c)n
+
+
+
+Sin x = x + x^3/3! + sin(c) x^5 / 5!
+
+
+Trick define function for distance; well defined bc exists, 
+
+L = limsup()
+​​

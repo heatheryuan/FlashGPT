@@ -1,0 +1,126 @@
+List of Terms for PS 1 Final, Fall 2021
+
+ 
+Pluralism - according to Robert Dahl and Charles Lindblom
+“Old” Pluralism
+Interest groups, not voters, are central to a responsive government
+Institutional fragmentation leads to multiple cross-cutting interest groups that provide multiple points of access into the government
+Influence is broadly (but not evenly) distributed
+ “New” Pluralism
+Problems with old pluralism
+Free-rider problem
+Unequal resources: class and wealth will play a HUGE role in influence; more than interest
+More nuanced understanding
+Governments are not entirely responsive to interest groups. Rather, it is split up into sections that look after their own interests.
+Recognition of how other factors such as socioeconomic wealth come into play
+“Horse-race” Coverage: framing elections as a “horse-race”; more like a competition than on the political stakes or contents.
+A way for media to garner more viewership by making politics entertaining
+Exacerbates voters’ unknowingness of political ongoings during elections and makes 2 party polarization more extreme; just care about who’s one top between the candidates
+retrospective voting: Voting on candidates for re-election based on what they did in previous terms
+A way to keep politicians accountable
+“Folk Theory of Democracy”: the idea that the voting public supports, elects, and embraces candidates who serve the collective wishes and desires of the people
+Christopher H. Achen and Larry M. Bartels
+Heuristics: a way for uninformed voters to make decisions (usually based on cues)
+Cues
+Based on personal knowledge (ex. How is the economy doing?)
+Take cues from perceived professional (those following particular issues more closely)
+Cues from opinion leaders
+Party-bias
+Limitations
+Cognitive bias 
+We are very flawed in out perception of risk 
+Prone to motivated reasoning 
+Working back to the conclusion we want to reach 
+We can’t really ever remain neutral 
+Framing 
+EX: public opinion polls 
+Blind retrospection 
+Droubts, shark attacks, how the economy is doing in the last year 
+Partisanship 
+Citizens are not politicians → emotions and identity 
+Diverging sources of information 
+Electoral College: states get certains # of electors based on representatives in congress to contribute to 538 electoral votes
+President needs 270 votes
+Hybrid compromise for presidential election
+Direct election only used for the house and later the senate (17th amendment)
+Electors are chosen to choose the president
+Popular vote is used to guide the decisions of electors but not obligated to do so (point is to limit the power of the masses)
+Reinforces two party system: does not allow for political minority to gain traction
+Costs of voting
+Collective action problems bc each individual vote doesn’t sway much but collectively it does
+The actual costs: 
+You have to register
+Find a polling place 
+Take time out of your day 
+Psychological 
+Who to vote for (heavy informational burden) 
+White people have an easier time voting 
+“invisible primary”/The Party Decides: when elections are swayed one way through primary nominations; the time period when candidates are sourcing donations and endorsements
+Candidates who raise the most money appear the strongest, and thus garner more support later on
+Very important stage for runners to establish initial outcomes
+free-rider problem (re: interest groups)
+just bc you share interest doesn’t mean you actually do anything to materialize it and groups that do tend to be more concentrated interests
+Gerrymandering: strategic redrawing of districts to make certain groups gain more political power
+Leverages geographic political distribution
+Redrawing to allow for one party to gain political control of the region. Splitting up regions by voting lines in order to break up opposite party and allow for one to win during elections
+“intense policy demanders”: Interest groups with strong opinions that engage in activism and fight for tangible policy changes
+Asymmetric Polarization: unequal polarization between two parties; one side becomes more extreme than the other
+Presently, the right is more polarized than the left (bc of right-wing media)
+“Tea Party”: a movement in 2009 by conservatives in opposition of Barack Obama’s election
+Opposing excessive taxation and “free-handouts” to undeserving people
+Social group grew into an actual political party that garners from electoral support
+A political party that emerged out of a conservative social movement
+The Tea Party social movement was started in 2009 essentially in opposition to the election of President Obama
+Specifically, the Tea Party started in protest to “giving public help to ‘subsidize the losers’ mortgages’”
+Between 2009 and 2010, the Tea Party grew from a social movement into an actual party, with support growing in actual electoral races
+The main ideals of the Tea Party is focused on opposition to perceived federal government “handouts” to “undeserving” groups
+Fox News is a specific media outlet that is serving to “mobilizer” the tea party, as well as “define their insular community”two-party
+Two-party system: democrats vs republican
+Causes people to vote for parties rather than candidates
+Concentrated vs. Diffuse Interests: political system where power is widely diffused among many instead of concentrated in the hands of a few
+Related to old pluralism in defending multiple cross-cutting interest groups
+Social Movement
+Right-wing Populism: political ideology of giving power to the people
+Anti-elitist, nationalist
+Versus left-wing populism, right-wing is okay with large corporations and more stringent immigration policies
+McGovern-Fraser Commission: commission to rewrite the Democratic Party’s process for nominating candidates for the primaries
+Created after tumultuous 1968 democratic national convention
+Produced the binding primary system. 
+Replaced the previous convention system. 
+Moderated for the Dem party with the addition of superdelegates to the formula of how presidential nominations went down. 
+How the “guard rails” for democracy, how parties lose their gatekeeping abilities. 
+NRA: National Rifle Association.
+In the late 1970’s it became a much more political organization. Gun rights are associated with a central pillar of American freedom. The GOP has become much more focused on gun rights. 
+Ideology
+Party identification
+Newt Gingrich: Uber-conservative figure who pushed the party further to the right. 
+1978: Becomes only Republican in Georgia delegation. 
+1983: co-founds conservative opportunity society. 
+1990: Challenges George H.W. Bush over Taxes, House minority leader michel over leadership style. 
+1993: Becomes house minority leader. 
+1995: Becomes Speaker. 
+1998: Launches impeachment proceedings, electoral setbacks, resigns speakership.
+“Minoritarian Rule”: where minorities govern/hold more influence
+Happening in congress with rural vs urban
+Small states hold equals chairs, so 17% of the population holds majority chairs.
+Theses minoriatian advantages can then become entrenched 
+Courts 
+Gerrymandering 
+Disenfranchisement/voting rules 
+Policies 
+Koch Brothers network: a private system of a few hundred VERY rich donors who fund efforts to make America more conservative
+The brothers (Charles G. David H. Koch) made significant contributions to libertarian and conservative think tanks along with donating primarily to Republican Party candidates running for office.  
+One of the most influential groups
+Motivated Reasoning: Working backwards from the conclusion we want to reach
+emotionally biased reasoning to produce justifications or make decisions that are most desired rather than those that accurately reflect the evidence.
+Negative (or “Affective”) polarization: Voters motivated by distrust/hatred of other side rather than belief in platform of their party
+”Miracle of aggregation”/”Wisdom of Crowds”: even if individual voters make irrational decisions, the decisions of informed voters in collective crowds will cancel out those effects and lead to a group that is relatively rational and makes a democracy run relatively well
+Expressive benefits: an type of incentive to join an interest group to express a belief they have
+“Democratic Backsliding”: decrease in the quality of democracy
+Usually due to systems intended to maintain democracy degrading
+“Forbearance”: intentional restraint of power to to respect the spirit of the law
+Litmus Test of Authoritarian Behavior
+Status quo bias
+Racial resentment
+“Party in Government”
+“Party in Society”

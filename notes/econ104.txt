@@ -1,0 +1,56 @@
+Pure Strategy
+Nash equilibrium := everyone’s action a* is the best response to all other actions a-
+Find best response function by differentiating utility function with respect to action
+Pareto efficient := can’t make anyone strictly better off without making someone else worse off
+production model: price P(Q) = a - bQ (function of quantity produced)
+Cournot := firms choose output
+Bertrand := firms choose price
+for continuous actions where one player must “just undercut” another, there is no pure strategy
+evolutionary stable strategy (ESS) := set of a* where either u(a*, a*) strict dominates u(a*, a) or u(a*, a) strictly dominates u(a, a)
+Maxminimizer ⇔ NE
+Can show NE by casework
+Mixed Strategy
+Defined as utility of each action times chance
+Given set of outcomes X, a lottery \pi is a set of outcomes over X
+Want to understand preferences over \Delta x, set of lotteries
+Compound lottery is over \pi, \roh in \Delta x
+A preference over \Delta x is independent if \pi >= \sigma iff \alpha \pi + (1-\alpha) \roh >= \alpha \sigma + (1-\alpha) \roh; can be violated by intuitions of risk aversions
+Preferences can be continuous if they don’t change suddenly
+Continuous + independent => expected utility function
+Completely mixed := everything possible
+BR is defined analogous
+If a player randomizes between actions, she is indifferent between them
+Action in mixed strictly dominates if it is better wrt every set of opponent actions
+rationalizable action a_i means must exist Z_j for each player j where each player has positive probability of actions in Z_j and it is best response
+Trembling hand perfect equilibrium: exists sequence of completely mixed strategies 
+Extensive Games
+finite extensive game companies histories h = (a^k), P player function so P(h) take an action after h, u_i(o) is utility is game ends there
+A strategy assigns action to each history with each h where P(h) = i
+Strategy profile is a collection of strategies for each person
+choose optimally in every history in which they have to play
+subgame perfect equilibrium (SPE) of the extensive game with perfect information Γ is a strategy profile s ? for which for any nonterminal history,strategy profile is NE
+One deviation property - cant profit from deviating at any step
+Every finite extensive game with perfect information Γ has a subgame perfect equilibrium; backwards induction
+Extensive Games, Imperfect
+Information partition I has {h, h’} then player only gets access to the set
+Simultaneous moves can be modeled as information set
+Pure strategy - s maps history to action
+Mixed strategy - probability over strategies
+Behavioral strategy -  Randomize over informations sets
+For any mixed strategy of a player in a finite extensive game with perfect recall there is an outcome-equivalent behavioral strategy.
+Nash equilibrium among behavioral strategies
+
+An assessment in the game Γ is a pair (β, µ), where β is a profile of behavioral strategies, and µ is a function that assigns to every information set a probability measure on the set of histories in that set.
+Consistent := is there is ever smaller trembling assessments that doe converge to it
+An assessment (β, µ) is a sequential equilibrium of the game Γ if it is sequentially rational and consistent.
+Idea: let values denote the actual probabilities as well as beliefs over information sets
+Then calculate expected utilities and actions subsequent
+Bayes rule – update conditionally
+
+Delta 1 delta 2
+Let gamma_a denote chance of action a
+Assume some \mu which is belief at time of acting and test different values
+For sequences, whenever you need something to converge to 0 just use epsilon^k; use this for strategies
+Not being able to compute via bayes rule is fine – just means you have to show consistent
+Vary the squaring on the tremble
+

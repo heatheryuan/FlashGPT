@@ -1,0 +1,536 @@
+*definition AND SIGNIFICANCE
+
+Each term:
+read weekly objectives & look at lecture slides to answer them
+find 1 significant event/evidence for each term
+search up definitions & outline historical/political significance
+
+Resources:
+Week 7 Workshop
+ID Terms
+Reading/lecture/discussion notes
+Week 8 lecture slide 3 on essay topics
+
+THE FOUNDING
+Olson, Logic of Collective Action: rational, self-interested individuals will not contribute to group interests so government is necessary to enforce group preservation
+Dahl & Lindblom: thought institutions will encourage pluralism, but in 70s changed minds bc realized economic inequalities prevent this
+Anti-pluralism: exercises of power by specific groups (ex. Agenda setting, influencing elite/mass opinion)
+Constitution
+Framer’s context: practical politicians bargaining under enormous constraints & uncertainty
+Limited info on democracy/constitutional design
+Very different world from other “developed” nations
+Political constraints: pre-existing states, entrenched interests (ex. slavery), ratification
+Feared Tyranny of the Majority
+Articles of Confederation:
+Weak central government
+Needed supermajority for amendments → gridlock
+Challenges: collective action problems + free-ridership of states
+Big vs small states in terms of Congress representatives
+The Virginia Plan: representatives based on population (big states have more power)
+The New Jersey Plan: equal representatives
+Madison vs Sherman; federal > states vs federal < states
+Connecticut Compromise (Sherman):
+House represent people: proportional to pop., 2-year terms
+Senate represent states: 2 Senators/state, 6-year term
+Madison shifts focus to separation of powers & checks and balances
+Should slaves count as population for representatives? (in alliance with great compromise)
+3/5th compromise
+Embedded slavery into constitution by suggesting slaves were worth less
+Federalist Papers written to promote new constitution (Federalists were those who supported)
+Fed #10: violence of faction; rationale for large, diverse republic
+Fed #51: advocate for checks & balances
+Key Outcomes:
+Checks of Congress: bicameral, veto, VP override ties, judicial review
+Checks on President impeachment (⅔ maj), Senate advice w appointments/treaties
+Electoral college meant to be elite, educated, impartial => just party agents
+Separation of Powers with MANY VETO POINTS (makes changes difficult and leads to polarization)
+Pretty decentralized Federalism
+Winner-takes-all elections lead to bipartisanship
+
+
+
+
+
+
+
+
+
+TERMS:
+
+GOVERNMENT:
+Collective action problem
+When each individual finds it in her self-interest to defect from cooperating (free-ride), even though cooperation would have left all individuals better off
+Collective good: individual reaps the benefits of a collective action regardless of whether he pays any of the costs
+Why significant?
+Makes collective change difficult
+Free Rider: Someone who wants others to pay for a public good but plans to use the good themselves
+Related to the collective action problem
+When each can foresee that his or her relatively small contribution to a collective enterprise will not affect its overall success, free riders can leave everyone else to the burden of supplying the collective good.
+Prisoner's dilemma
+It is in both parties' collective interests to do something, but each is worried that the other will not perform their side of the bargain, and each is therefore tempted to renege first in order to gain an advantage
+Extended Republic (Federalist #10)
+James madison wrote in federalist 10(?) paper
+Warns against factions
+Hopes to extend the sphere to take in a greater variety of parties and interests in order to avoid one becoming dominant
+Also difficult for people to find unity amongst each other to gain power
+Wants larger country/republic
+Why important?
+pluralism
+“Ambition must be made to Counteract Ambition” (Federalist #51)
+Madison argument of constitution design
+Argues for checks and balance to avoid tyranny of one branch
+Not just fear of tyranny of one branch, but of one faction/minority of population from gaining control
+“In framing a government which is to be administered by men over men, the great difficulty lies in this: you must first enable the government to control the governed; and in the next place oblige it to control itself.”
+“Ambition must be made to counteract ambition”: the bicameral nature of the legislative branch (senate + house) makes it so that their interests counter each other. Same among branches.
+Conditional Party Government: power of party leaders depends on how unified the party is
+More unification = more unified on policies = more power to leaders
+Less unification = more conflict = less power to leaders
+CONSTITUTION
+Articles of Confederation
+First “constitution” after revolution
+Very weak centralized government, could not tax states and was in huge debt
+Significant:
+Represents collective action problem bc the states wouldn’t do anything for each other without the centralized government
+
+Supremacy Clause: federal law derived from the Constitution is the “supreme law of the land”
+Federal law will always override state law
+expands power of the federal government, weakened federalism
+EXECUTIVE BRANCH
+Divided Government: One party controls executive branch while the other controls one or both of the other branches
+Undesirable product of the american political system
+Too much opposition makes moving legislation forward very difficult and can lead to gridlock
+Significance?
+Indicates government’s polarization and inefficiency
+“Going Public”: When the president takes a public stance on issues and directly addresses the American people
+Gives leverage to President over congress by have public backing
+President in second term more likely to be aggressive in “going public” because it’s their “last chance” to push through policies
+Unilateral Action: any agenda that aligns with one side/party
+Represents how government approaches national issues; doesn’t take other countries into consideration
+Constitution makes it difficult for unilateral action to take place
+Happening more recently
+Tends to happen more in a polarized era
+Presidents can use executive agreements/action
+War efforts & use of military (all executive power)
+Congress less powerful while executive branch becomes more powerful
+Presidency in a Polarized Era
+Going public can backfire
+Legislation difficult due to gridlock and divided government
+Unilateral action increasingly attractive
+Veto Point: president rejects bill sent by Congress by refusing to sign it within 10 days
+Goes back to senate/house, can override veto with ⅔ vote
+Currently very difficult to override veto bc of polarization
+Represents the role of polarization on the shifting of power between branches and government structure
+Related to check and balances between branches
+CONGRESS
+Coordination Game (“Battle of the Sexes”): game theory concept where two people want different things but ultimately want to choose what is best for collective/keeps people together → leads to compromise
+Relates to Congress because Congress wants to vote what will be similar to others but there are so many people that they can’t all communicate, thus a coordination problem emerges because they have to figure out a way to vote together even if individuals want one or the other
+Coordination problem
+People want the same result, but can't synchronize their actions to achieve it. Problems of uncertainty and lack of information. Once these problems are removed people will follow the rules (because they want the problem solved) and therefore coercive enforcement is not always necessary. Problems tend to get bigger as the group in question gets bigger, and therefore the solutions change
+Filibuster: something meant to delay or prevent a vote on a bill/debatable question
+Senate rule: pausing senate floor and making long speeches to avoid deliberation/voting
+Cloture Rule: procurdue where senate can vote to place a time limit on consideration of bill, overcoming filibuster (must have ⅗ vote)
+Can also use Omnibus Bill: a bill that WILL pass so just adding portions of the other bill to this to slowly push it through
+Seniority System: congressional committee ranks/chairs are decided by member seniority rather than appointed by the speaker
+Came to rise after 1910 when people became frustrated with Speaker Cannon’s power and took his power away to appoint committees and chairmen
+Led to a much more decentralized “committee government”
+VOTING
+Jim Crow System: state and local laws that enforced racial segregation in the Southern United States. Talked about a lot with voting rights
+Represents entrenchment of majority powers
+Represents the power of a federalist system where states hold power
+Indicates how the Constitution is written to allow for things like this to happen
+How the Constitution is so subjective
+The dangers of writing things too specific or not specific enough
+How the political system allows for imbalances of power like this to exist
+White Primary: White people had advantage to vote in primaries
+Voter suppression: no matter if Black people voted in general elections, they wouldn’t be able to outvote the primaries
+White primaries allowed white people to choose who was going to be on the ballot
+Not direct suppression because black people were still allowed to vote in general
+In the south, winning a primary translated to winning the general election
+Shows impact of federalism
+Electoral College: states get certains # of electors based on representatives in congress to contribute to 538 electoral votes
+President needs 270 votes
+Hybrid compromise for presidential election
+Direct election only used for the house and later the senate (17th amendment)
+Electors are chosen to choose the president
+Popular vote is used to guide the decisions of electors but not obligated to do so (point is to limit the power of the masses)
+Reinforces two party system: does not allow for political minority to gain traction
+Candidate-Centered Elections: voters choose based on individual candidates rather than party affiliations
+Common during periods of bipartisanship (like 40s-80s)
+people often voted for candidates who will help both parties
+Not common now
+Incumbency Advantage: advantage that incumbents have when running for reelection; typically larger for representatives that senators; due to more funding, bigger spotlight, established platform/support, access to more resources, etc.
+Does incumbency advantage actually exist or are people just voting for their party
+Voting Rights Act: (1965) prohibits racial discriminiation in voting (more holistics to include Jim Crow laws)
+Voter ID Laws: laws that make voters provide ID when voting to “preserve legitimacy of votes”
+Was actually a form of voter suppression (only documented and wealthy people could do so bc IDs were expensive)
+Example of backsliding & abuses to power permissible by federalism
+BUREAUCRACIES
+Police Patrols vs. Fire Alarms: active vs proactive actions
+Police controls:
+as more of a visible deterrent, active monitoring
+Very labor intensive
+Constant hearings, trying to find the wrong in people
+Fire alarms: more efficient and how the government uses bureaucracies
+just notify of issue, act when issue comes up
+Relies on organized allies/bureaucracy
+Design procedures so that fire alarms can be pulled
+Rational individuals will stay within Congress policies to avoid fire alarms being pulled
+Principal-Agent Problem (Delegation): conflicts of behavior and interest between a person/group and its agent; the agent may act in conflict with whom he represents
+Bureaucracy: the bureaucrats are the agents to the government
+The bureaucracy can be captures by outside interests and go against the principals’ agents
+Therefore needs massive oversight
+COURTS
+Marbury v. Madison: established power of judicial review/statutory interpretation
+Statutory Interpretation: process by which courts interpret and apply legislation
+Representative of court power: interpretations of law set precedent for how it will be interpreted in the future and can essentially “create a new law” when the existing one is too vague
+Example
+Shelby v. Holder: (2013) supreme court decision that section 4 of Voting Rights Act is unconstitutional
+Section 4: any state changes to voting procedures must be approved by Congress before it can be put into effect
+Implications: made voter suppression much easier
+The court using unilateral action in a period of high polarization
+Make 5th provision of VRA void too bc federal government couldn’t oversee local elections anymore
+Activist court decision
+Returned powers to local governments
+“Counter-majoritarian Difficulty”: idea that judicial review is problematic because unelected appointed representatives may overrule elected representatives, undermining the will of the majority
+Jefferson hated life-long judges
+“Politicians in Robes”: activist judges who try to legislate through the court
+Judges are supposed to be impartial, but here judges have a political agenda
+Process of selecting supreme court judges have become politicized
+Presidents want to choose judges who will favor their policies
+Ex. Trump and Amy Coney Barrett
+BIG CHANGES
+“Long 1960s”: (1964-1977) period of major political, social, and cultural developments
+Increasing collective action (Civil Rights Movement, Women’s Rights Movements, Environmental Movements, etc.)
+Large democratic majorities in Congress
+Lots of movement in policy making and legislature
+Here was a divided government
+But quite a bit of bipartisanship and polarization was limited
+Bidding Wars: where both parties try to be the most in favor of something
+Happens when there is a policy with majority in favor so there can’t really be polarization of opinions, just who supports it the most
+Clean Air Act: enacted in 1963, federal air quality law that reduces carbon emissions by 30%, mostly supported by democratic party
+Southern Realignment: (~1965) mass migration of southern voters from democratic party to republican party (they were unhappy with the progressive stance democrats were beginning to take)
+Southern states consists majority of electoral college votes & the south tends to vote as a unit, making it nearly impossible to turn a red southern state blue
+Reconstruction Era: Series of post-civil war reforms
+Made in a moment of partisan advantage (Southern states temporarily excluded led to massive Republican majorities)
+13th amendment (1865): abolishes slavery
+14th amendment (1866-1888): equal protection under law
+Reconstruction Act (1867): continued military occupation and touch conditions for re-entry of Southern states
+15th amendment (1869-1870): right to vote cannot be discriminated against based on race, color, previous conditions of slavery
+Enforcement Act (1870): interfering with voting is a federal crime
+Did this actually work? Lol
+Collapse of Reconstruction reveals difficulties in permanently consolidating gains and solidifying reform
+Entrenchment lol
+BIG GOVERNMENT: how the government is growing in power
+Ted Roosevelt with New Deal introduced new system where government plays a much more involved role in society
+Social Security Act: New Deal social welfare program that benefits retired, unemployed, dependents, etc.
+Example of using taxation and economics to entrench a policy
+Benefits people so much that any politician who runs against it will face severe opposition
+Sixteenth Amendment (Federal Income Tax): gives congress power to lay and collect taxes on incomes
+Gave government MASSIVE money; before it was harder for government to get money
+Initially blocked by Supreme Court
+Response to growing desire for government to pursue more involved programs
+Represents partisan fighting (between parties on how much power the government should have)
+Initially only taxed high-income until after WWII
+FEDERALISM
+“Laboratories of Democracy”: concept of policies being tested in local/state governments before being adopted by federal
+“Race to the Bottom”: competition for the least policies; attempt to benefit businesses and gain their support
+Federalism
+Businesses will move to states with less regulations
+Prioritizing business interests
+Boost local economy and prestige
+How much power to businesses?
+A way of limiting government activity bc they fear businesses will leave them
+Federalism: not all power is in national government; split up into states
+4 types of federalism
+Laboratories of Democracy
+States can test out new policies
+Ex. california w marijuana, women’s suffrage, strict environmental regulation)
+Brake on leviathan
+Makes it so states can’t fall under and all-powerful government
+Restraints on “leviathan”: big government
+Mechanism for generating inequality
+Hoarding of opportunities
+Certain groups get more and states can set their own rules
+Cooperative vs competitive federalism: relationship of states
+US is competitive federalism bc states have to compete for resources
+Safety Valve
+States can become a “safe haven” for ideas conflicting with federal government
+Ex. California under Trump or Northern states during slavery
+
+Activist vs Deferential Court: 
+Activist: tend to change legislation & issue rulings that change laws
+We are here rn (ex. Shelby vs. Holder, Obergefell vs. Hodges 2015 [legitimize same-sex marriage])
+Deferential: doesn’t interfere with federal government/legislative process
+Externalities: a cost or benefit caused by a producer that is not financially incurred or received by that producer.
+
+
+
+
+EXTRA VOCAB Hope these are helpful!
+Political Institution
+Sets of rules and norms that organize "political" activity. Institutions do not necessarily have to be written down, but they have to be enforced or commonly accepted (or both). In a narrower meaning, "political institutions" also describe the organizations that shape the actions within a political system, such as parties, courts, trade unions, etc.
+Strategic politicians
+They are goal oriented i.e. they want to get elected and re-elected and therefore behave with this end in mind. Politicians generally behave strategically in pursuit of their goals. Because they want to stay in office, they bargain and make compromises.
+Expressive Voters
+In contrast to politicians, we say voters are often emotional rather than strategic. That is the way they vote is influenced by their core values, beliefs, and identity. A key aim in voting is to express those values/beliefs. This means they do not always act in their own self-interest narrowly defined.
+Electoral Connection
+Elections connect strategic politicians to expressive voters. They help keep the politicians accountable to voters and (broadly speaking) acting as the voters want. Politicians generally try to follow the wishes of voters because they want to be re-elected. This means they are agents of THEIR constituents, not somebody else's. This means the size, nature, economic and other interests and voting habits of their constituents are really important.
+Collective Action
+The efforts of a group to reach and implement agreements: two main types are coordination problem and the Prisoner's dilemma.
+Conformity costs
+Difference between what a person ideally would prefer and what the group that makes collective decisions actually does. People pay these costs whenever collective decisions which they have to abide by produce policy outcomes that they don't want. As these costs go up, transaction costs tend to go down, and vice-versa. Think about Direct Democracy v Dictatorship v Consensus
+Transaction costs
+Costs in time, effort, and resources of making and implementing collective decisions. The bigger the number, generally speaking the bigger the costs. These costs can be used as a deliberate barrier to collective action e.g. think about how hard it is to change the constitution. As these costs go up, conformity costs tend to go down, and vice-versa. Direct Democracy v Dictatorship v Consensus
+Public/Private Goods
+Private goods are goods brought by individuals on the market and consumed as individuals e.g. food and drink. Public goods are goods that are provided by everyone in some sense (e.g. through taxes) for the benefit of everyone (e.g. army, police, fire dept) and can be consumed by anyone. Toll road v private road. Defense. Clean air. Many are hybrids e.g. federal college loans, public education. Good for society if people go to college (well-educated citizenry, greater economic productivity) but it is also good for the individual.
+Free rider problem
+Form of prisoner's dilemma. Situation in which individuals can receive the benefits from a collective activity whether or not they help to pay for it, leaving them with no incentive to contribute e.g. NPR. Normally this applies to big groups, where each person's contribution to the collective enterprise is so negligible that withholding it won't make any discernable difference to whether the group benefit is produced. Usually solved by selective incentives or forcing compliance.
+Tragedy of the Commons
+Form of prisoner's dilemma. It is in the interest of all who are using a common resource to maintain it (e.g. fish stocks, common land), but some may be tempted to overuse it to get a short term gain. Enforcing compliance (e.g. fish quotas) or privatizing the good (i.e. 1 distinct share each, which creates an incentive to look after it) are possible responses.Again, enforcement and incentives. Ostrom argues that common-pool resources always end in a tragedy of the commons. She argues that in smaller groups it is possible for people to evolve norms that allow effective preservation and use of the resource
+Framer's attitudes toward parties
+Madison said the factions were very bad and could destroy democracy
+Selective incentive
+Goods or benefits offered only to those who contribute to a collective undertaking in an effort to stop free riding e.g. ancillary benefits such as a lawyer or life insurance to Trade Union members.Example: in Radiohead's case they produced a hard copy special addition with extra material i.e. you would only get that if you paid.
+Stamp Act
+Took place in 1765 and challenged home rule. It imposed a tax on all printed materials, including legal documents, licenses, insurance papers, and land titles. It also taxed other consumer goods. This led to the Boston Tea Party and eventually resulted in the colonists declaring independence.
+Home rule
+Power given by a state to a locality to enact legislation and manage its own affairs locally. Applies to Britain's administration of the American colonists. Taken away with new Imperial policies like stamp, sugar, quartering and tea acts
+Boycott of British Goods
+In the build up to the Rev War (and in response to the Stamp Act etc) the colonists organized a boycott of British goods in an attempt to put pressure on the British, which relied on the colonies as a major market for exports. The problem? People were tempted to free ride i.e. everyone else boycotts (so you get home rule) but you still get to buy nice British stuff. They attempted to enforce this by informal monitoring (committees of observance) i.e. a form of informal coercion: probably works better in a small population (think Olson vs Ostrom)
+Continental Congress
+1. Established in 1774 because the colonists became fed up with British policies. They asserted home rule and boycotted trade with Britain.
+2. Organized the war. Declaration of independence. Articles of Confederation. S adopted bi-cameral republican govts with a governor.
+Articles of Confederation
+Federation of independent states. Single chamber, weak central govt. No power to tax. Each state 1 vote. Required 9 out of 13 states for major laws; all 13 to change the Articles which means high transaction costs, low conformity costs. No enforcement mechanism.
+Shays' Rebellion
+Uprising of 1786 led by a former captain in the Continental Army/bankrupt Massachusetts farmer, to protest the state's high taxes and aggressive debt collection policies. The rebellion demonstrated a fundamental weakness of the Articles of Confederation - its inability to keep the peace - and stimulated interest in strengthening the national government, leading to the Philadelphia convention that framed the Constitution. Overcame it by raising a private militia to put the rebellion down. After this rebellion state legislatures started caving in to demands from debtors and began wiping out debt, overturning court decisions etc.
+Virginia Plan
+Bicameral legislature by population. Lower house directly elected. Upper house elected by lower house. Veto over state laws. No Bill of Rights, no checks and balances, dominant national govt and legislature within that government, and small states and states' rights delegates would disagree. Big states liked this plan.
+New Jersey Plan
+One chamber, members selected by state legislatures. Equal number of members per state. Vague about the executive and the judiciary: courts appointed by exec, but exec could be removed by a majority of the states. Small states liked this plan.
+Connecticut/Great Compromise
+Bicameral. House by population and directly elected. Senate 2 members per state, chosen by state legislatures. House represents people, senate represents states. Supremacy clause. Enumerated powers: Tax, spending, regulate commerce, and declare war, necessary and proper clause. Separation of powers: created independent legislative, executive, and judicial branches. Each has own functions, instead of fusion of power.
+Logroll
+A deal in which each party wins about the issue it cares about most
+Enumerated Powers
+Article 1 section 8. Regulate interstate commerce, coin money, declare war.
+Electoral College
+The election for President and Vice President is not a direct election by United States citizens. Citizens vote for electors, representing a state, who are the authorized constitutional participants in a presidential election. In early U.S. history, some state laws delegated the choice of electors to the state legislature. Electors are free to vote for anyone eligible to be President, but in practice pledge to vote for specific candidates and voters cast ballots for favored presidential and vice presidential candidates by voting for correspondingly pledged electors.
+Bill of Rights
+1st Ten Amendments, passed soon after the Constitution was ratified, but promised prior to that by Madison in order to head off the anti-federalists
+Slavery in the Constitution
+3/5ths Compromise, Ban on regulation of the trade prior to 1808, Runaway slave clause. Garrison, "deal with the devil"
+Separation of Powers
+There are three distinct branches so all the power is not concentrated in one person/office/branch. This comes from Montesquieu
+Checks and Balances
+The three branches guard their own power jealously, and therefore act as a check on each other. The fact that they share powers (e.g. war Pres v Congress) allows them to check more effectively.
+Separated Institutions Sharing Power
+This is really what the US has, rather than a strict separation of powers system
+Federalist 10
+Madison warns against factions - but thinks they were inevitable
+Federalist 51
+Addresses means by which appropriate checks and balances can be created because by nature humans want to consolidate power
+Ambition-to-counter-ambition
+No group can become too powerful when they have equal ambitions with another group. Checks and balances. James Madison
+Extended republic
+Republic that has many/various factions or interests and cannot be taken over by one single faction.
+Mischief of faction
+Solutions: Large republic and putting factions against each other; competition.
+Unitary Government
+Single national government elected by the voters, which then delegates its powers to local government e.g. UK
+Federation
+A system where you have two levels of government, central and local, which are both elected directly by voters. e.g. US
+Confederation
+Authority held by separate sovereign states and delegated to a central government. e.g. European Union
+Dual Federalism
+US in the 19th Century: the Federal and State governments have separate and (substantially) mutually exclusive spheres of influence
+Shared/Cooperative Federalism
+The Federal and State governments share responsibility for many areas of government and jointly supply some services to the citizens
+Coercive Federalism
+Where the Federal government uses financial leverage over the States in order to enforce its policy preferences over the States
+Supremacy Clause
+Article 6 of the Constitution that says that national laws are the supreme law of the land and take precedence over state and local law when the two are in conflict and properly discharge their governments' respective responsibilities. Judicial review not really dealt with explicitly: once this developed, left room for the Supreme Court to be a major player.
+Necessary and Proper/Elastic Clause
+The last clause of Article I Section 8. This grants Congress the authority to make all laws that are necessary and proper for the execution of the enumerated powers. Left the door open for an expansion of Congress' power and with it nationalization of public policy during the 20th century (e.g. New Deal)
+Commerce Clause
+The clause in Article I Section 8, of the Constitution that gives Congress the authority to regulate commerce with other nations and between the states.
+10th Amendment
+"The Powers not delegated to the United States by the Constitution nor prohibited by it to the States, are reserved to the States respectively, or to the people."This ended up really only being descriptive i.e. didn't protect the States from Federal encroachment.
+14th Amendment
+Can't take away rights of citizens. It was eventually held that this applied the Bill of Rights to the States (via Due Process not Privileges and Immunities - Slaughterhouse cases).
+Race to the Bottom
+The problem with States regulating their own social security, environmental laws, tax breaks, employment law - the competition between them to attract businesses (and not attract too many non-workers) puts massive downward pressure on regulation.Can you defend this as the market at work?
+Block Grant
+Funds given by the Federal government to States to spend on a particular policy area, although not necessarily with tight guidelines as to exactly what it's spent on. If the money is not spent it generally has to be given back to the Federal government, so there are no incentives on the States not to spend the money. The States will have to pay for anything over the Block grant, so they generally don't. In effect then the Federal government sets State spending levels.
+Categorical Grant
+Funds given by the Federal government to the States with very specific instructions as to how it is to be spent.
+Matching Grant
+The Feds will match the States at least $ for $. There is therefore an incentive on the States to spend a lot - which is why the Dems use these sorts of grants for Medicaid.
+Unfunded Mandates
+Straightforward instructions by the Feds to the States to put in place a particular policy, but with little or none of the money
+Partial Pre-emption
+Programs are run by the States, but they may lose control and/or money if they breach Federal guidelines
+Cross-cutting requirements
+Anything that receives federal funds must follow general rules applied to a wide variety of areas (e.g. non discrim provisions) which may be linked with criminal sanctions and funding.
+Crossover sanctions
+Ties together two seemingly unrelated projects i.e. if the States fail on one, the funds get pulled from another e.g. MADD and highway money
+Direct Orders
+States must comply to federal govt under threat of criminal or civil sanction. An example is the Equal Employment Opportunity Act of 1972, barring job discrimination by state and local
+Laboratories of democracy
+The idea that a stricter dual federalism allows states the freedom to try out policies on a smaller scale, which allows the country as a whole and other states to see whether they work or not.The phrase was popularized by U.S. Supreme Court Justice Louis Brandeis in New State Ice Co. v. Liebmann (1932) to describe how a "state may, if its citizens choose, serve as a laboratory; and try novel social and economic experiments without risk to the rest of the country."
+McCulloch v Maryland (1819)
+Court case brought together the supremacy and necessary and proper clause. Marshall ruled that if the national govt thought it was necessary to set up a national bank to fulfill its role then it could.
+Gibbons v Ogden (1824)
+Court Case relating to ferry services on the NY/NJ border. Ruled that only the Federal government has the power to regulate interstate commerce. Commerce clause
+Wickard v Filburn (1942)
+Supreme Court decides man's wheat growing activities reduced the amount of wheat he would buy on the open market, and because wheat was traded nationally, his production of more wheat than he was allotted was affecting interstate commerce, and so could be regulated by the federal government by the commerce clause
+Roe v Wade (1973)
+Women allowed to have the privacy to an abortion. Due process clause of 14th amendment.
+US v Lopez (1995)
+Court case where federal gun law banning guns at schools, supposedly because this would affect interstate commerce. The Federal government lost
+US v Morrison (2000)
+Court case where federal govt lost. SC struck down Violence Against Women Act 1994 saying it did not relate closely enough to the commerce clause and thus the federal government could not regulate
+Gonzalez v Raich (2005)
+California medical marijuana case. SC held that under the commerce clause the Federal government could regulate home grown marijuana, even if it never left the state or was only kept for personal consumption. This seems to be inconsistent with Morrison and Lopez, and seems like an encroachment on a straight-forward police power.
+Obergefell v. Hodges (2015)
+Court case that states fundamental right to marry is guaranteed to same-sex couples by both the Due Process Clause and the Equal Protection Clause of the Fourteenth Amendment to the United States Constitution
+Incentives to build parties
+1. Legislative alliance 2. Keep your people in office 3. Mobilize voters
+Party in government
+Alliance of current officeholders cooperating to shape public policy
+Party-as-organization
+Dedicated to electing the party's candidates
+Party in the electorate
+Composed of those voters who identify with the party and regularly vote for its nominees
+Duverger's Law
+In a single member district first past the post plurality rule (i.e. need the most votes, not an absolute majority) people are incentivized to vote for their favorite of the main two parties rather than a 3rd party because otherwise they risk getting their worst outcome
+First Past the Post/Winner Take All
+The candidate with a certain number of votes (either majority after run-offs or plurality) wins outright. Tends to be in single member districts but technically could have two members in the district. Tends towards fewer parties.
+Candidate centered elections
+With TV, etc., candidates can form a personal tie to voters that is separate from party, and they can raise money apart from party through direct mail. Voters are voting more for the person and less for the party. Candidates can distance themselves from the party.
+Ticket-splitting
+The act of voting one party for president and another for other offices. Prior to 1890s, voters had to pick their parties' ballot at the door and could not easily vote for people who weren't on the slate: they had to start crossing people out and writing new people in. With the advent of the secret balloting and a tick the box ballot this has disappeared.
+Divided government
+When different branches are controlled by different parties: Presidency vs Senate vs House. Becomes much more common after ticker-splitting is prevalent.
+Party control of nominations
+Parties originally had the capacity simply to choose the nominee, but after McGovern Fraser Reforms we get the modern primary system, which makes it difficult for them to control the nomination process. Ex: Hillary vs Obama, Trump
+Issue activist vs. patronage activist
+A. workers for a party and/or ticket in the hopes of implementing policy change. B. workers for a party and/or ticket in order to get a govt job once their candidate was elected
+Spoils system
+handing out federal (and other) jobs as rewards for helping someone get you elected. Helped motivate people to help you campaign and overcome free -riding, but obviously pretty corrupt and had a negative effect on the professionalism of large parts of the bureaucracy
+Progressive Era
+Spans 3rd/4th party systems: end on 19th up until about 1920 or so. Series of reforms trying to undercut the Spoils system and weed out corruption. Key moves: Pendleton Act (1883), Australian Ballot, 16th and 17th Amendments. BUT also slightly elitist: literacy tests along with Australian ballot, stricter voter registration laws. As this undercut the spoils system there was a drop of in voter participation: eventually parties replaced patronage activists with issue activists
+1968 democratic convention
+Catalyst that changed primary system to current. Brought about McGovern Fraser Reforms. Democratic Party leaders chose an unpopular pro-Vietnam candidate, despite the will of the members at the convention and most of the primary results
+McGovern-Fraser Reforms (1972)
+Required states to select delegates through an open process (primaries, caucuses): outcome must determine at least 90% of that state's delegates. Led to big increase in primaries. Adopted by both Democrats and Republicans. Gives "outsiders" (e.g. McGovern, Carter, Trump)
+Superdelegates
+Created as a means to make sure inexperienced candidates did not receive the Democratic nomination (Jimmy Carter in 1972). Democratic Party regulars (governors, senators, past presidents) who each hold a delegate at the Democratic Convention
+Secret ballot (Australian ballot)
+Part of the Progressive Era, 90% of states developed adopted this between 1888 and 1896 as a solution to allow Ticket-Splitting and (eventually) more candidate centered politics.Def: Ballot listing all candidates from all parties that would be marked in the privacy of a voting booth - put together by the State, not the parties.
+Invisible Primary
+Competition held by candidates to win party insiders endorsements and logistical and financial support i.e. the party (at various levels) still has some influence on the nomination process.
+Civil liberties vs. civil rights
+Protection from government vs Protections by government
+Senate "balance" (free vs. slave state)
+Missouri Compromise and Wilmot Proviso. Slavery could not be ended because of the divided senate. Gave south a "southern veto" to anything that threatened slavery but they couldn't pass legislation through on their own.l The parties are fragile north/south coalitions, so they are incentivized to keep the issue off the agenda
+Missouri Compromise
+Missouri enters as a slave state, Maine enters as a free state, created the Mason Dixon Line (Missouri's southern border) that stated slavery could not extend any further North than that (apart from in Missouri itself). Begins to unravel as more free states than slave states began joining the union
+Wilmot proviso
+Wilmot proposes proviso that would ban slavery in recently acquired territories. The proviso passes twice in the House, but not in the Senate. This is a free labor bill
+Compromise of 1850
+California to enter free, passage of Fugitive Slave Law (targeting the underground railroad).
+Free soil
+Lincoln's attempt to prevent future slavery in states: runs on a free labor platform
+Abolitionism
+Abolish slavery in all territories, popular movement in the 1830s in Northern states, supported by religious groups, popular support from citizens change Northern politician's incentives (support to stay in office)
+Dred Scott case
+Supreme Court upholds that the national government cannot prevent slavery in any territory. Any federal law interfering with the right to "property" (slaves) is unconstitutional. Since the framers never intended African Americans to be citizens, there are no rights of African Americans that whites must respect. No power in the national government to reign in slavery. Destroys the Missouri Compromise
+13th Amendment
+Bans slavery in the United States in 1865
+14th amendment
+Citizenship. Due Process clause. Equal protections clause. If a state failed to allow African American males to vote in state and federal elections, the state's House seats would be reduced proportionately.
+15th amendment
+Rights of a citizen cannot be denied based on race, color, or previous condition of servitude
+Kansas-Nebraska Act of 1854
+Provide the terms for admitting Kansas and Nebraska as states, and explicitly repeals the Missouri Compromise, saying that Kansas and Nebraska can vote over whether to join as slaves or free.
+Black codes
+South's reaction to abolition of slavery and loss in the civil war. Granted African Americans certain rights, such as legalized marriage, ownership of property, and limited access to the courts. Denied them the rights to testify against whites, to serve on juries or in state militias, or to vote. Led to sharecropping
+Jim Crow system
+Segregation and disenfranchisement of blacks. Upheld by Plessy v. Ferguson.
+White primary
+Democratic Party in the south created a primary system to select its nominees provided that only whites can vote. They claimed they were a private organization, which made it legal.
+Grandfather clause
+If your grandfather was eligible to vote in the state in 1950, you are exempt from the poll tax and literacy test
+Literacy Test
+Designed by white election officials making it near-impossible to pass
+U.S. v. Cruikshank (1876)
+The Enforcement Act of 1870 made it a felony if two or more people conspired to deprive anyone of their constitutional rights. Following the massacre at Colfax KKK members prosecuted. Court claimed the 14th and 15th amendment (i.e. equal protection + due process) only stopped the States from infringing in their right to vote, and not private parties. Also refused to incorporate the Bill of Rights against the States. Therefore the national government does not have the power to punish private parties who are massacring African Americans to prevent them from voting
+Poll Tax
+Charge that you need to pay in order to vote
+Plessy v. Ferguson (1896)
+Declared the Jim Crow laws constitutional and declared southern segregation laws constitutional: "separate but equal"
+Brown v. Board of Education (1954)
+Separate but equal is not constitutional. Did not get enforced until 1960s
+Civil Rights Act of 1964
+Ended segregation in education and public accommodations. No federal funds for state/agencies that discriminate (coercive federalism at work). Barred job discrimination on the bases of race, religion, and gender. Gave Brown V Board teeth
+Voting Rights Act of 1965
+End literacy test, poll taxes. Federal officers sent into the state to register voters directly. Covered states had to obtain clearance from Justice Dept. before changing election laws. Results: a. African American registration/turnout soared b. Number of African American elected officials increased dramatically
+Voter ID laws
+Disproportionately affects minorities who are unable to get government issued IDs
+"Take care" clause
+The President must take care that the laws be faithfully executed. Gives wide range of power
+Anti Federalist criticism of Constitution
+Wanted a smaller/less powerful central government. Wanted state governments to be more powerful. Though the constitution helped the aristocrats/elites. Wanted a Bill of Rights.
+Impeachment
+Formal accusation of the president of wrongdoing in the House. Senate must convict with 2/3 vote.
+Police Powers of the States
+states' hold authority to set laws that provide for the public's health, safety, welfare, or morals. Essentially violated in Gonzalez v Raich
+Obstacles to third parties
+Strategic politicians and voters. Duverger's law. Major parties adopt the policies of third parties. Winner take all. Access to be on the ballots. Resources.
+"Golden Age" of presidential nominations (also called "mixed system")
+Presidential nominations 1912-1968; most delegates (still) controlled by state and local party leaders; primaries in about 10-15 states; some candidates used primaries to show their "electability", but still mainly needed inside support (JFK used West VA to show that a Catholic can win.)
+American Creed
+the dominant political culture in the United States, marked by a set of beliefs in individualism, democracy, liberty, property, and religion, tied together by the value of equality
+American core values vs. competing values
+Religious exclusivity; Belief in racial/ethnic group superiority; Classical republicanism / communitarianism; There is a public interest; Suspicious of outsiders; fear corruption; Focus on individual is misplaced
+Classical Liberalism
+Limited government; individual rights
+American exceptionalism
+Idea that America is an exceptional nation, one unique in its virtue, goodness, and acts as a force of good in the world. City upon a hill
+American Party / Know Nothings
+Political organization that was created after the election of 1852 by the Know-Nothings, was organized to oppose the great wave of immigrants who entered the United States after 1846; Nativists
+Shelby County v. Holder
+Invalidated pre-clearance criteria so covered states do not have to have new voting restrictions cleared by the justice department. Previously "covered" states enacted new restrictions like photo id laws
+Lyndon B Johnson
+Rallied public opinion behind the civil rights act which forced congress to act. Civil rights act 1964 and Voting rights act of 1965. Great Society goal to eliminate poverty and racial injustice
+American core values vs competing values
+religious exclusivity
+racial/ethnic superiority
+classical republicanism/communitarianism
+public interest, suspicious of outsiders
+civil liberties
+protections FROM government (free speech, press, religion, assembly, petition)
+civil rights
+protections given BY the government (quality, due process, bill of rights)
+
+
+Functions of Government
+Public goods
+Externalities
+Myopia
+Social insurance
+Redistribution
+Enforcement of Norms
+Pluralism
+There are multiple interests and diversity in the government and power should be distributed amongst many interests
+Anti-pluralists believe that inequality will avoid open conflict
+Agenda Setting:
+Design of decision-making structure & proposals inheriting entrenches biases
+The Virginia Plan
+Amendments to Articles of Confederation that gave a lot of power to legislative branch
+A parliamentary system (a democratic government where executive derives democratic legitimacy from its ability to command the support of the legislature to which it is accountable; aka legislature choose president so now they have to do whatever the parliament says)
+
+
+The Constitution:
+Week 3 Lecture 4 slides on what’s in the constitution
